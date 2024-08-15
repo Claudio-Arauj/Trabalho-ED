@@ -1,0 +1,2973 @@
+# Tamanho do vetor: 100
+# Tamanho da memória alocada: 400 bytes
+100 2.790000
+# Tamanho do vetor: 110
+# Tamanho da memória alocada: 440 bytes
+110 2.500000
+# Tamanho do vetor: 120
+# Tamanho da memória alocada: 480 bytes
+120 2.810000
+# Tamanho do vetor: 130
+# Tamanho da memória alocada: 520 bytes
+130 3.000000
+# Tamanho do vetor: 140
+# Tamanho da memória alocada: 560 bytes
+140 3.280000
+# Tamanho do vetor: 150
+# Tamanho da memória alocada: 600 bytes
+150 3.480000
+# Tamanho do vetor: 160
+# Tamanho da memória alocada: 640 bytes
+160 3.180000
+# Tamanho do vetor: 170
+# Tamanho da memória alocada: 680 bytes
+170 3.910000
+# Tamanho do vetor: 180
+# Tamanho da memória alocada: 720 bytes
+180 4.060000
+# Tamanho do vetor: 190
+# Tamanho da memória alocada: 760 bytes
+190 3.970000
+# Tamanho do vetor: 200
+# Tamanho da memória alocada: 800 bytes
+200 4.280000
+# Tamanho do vetor: 210
+# Tamanho da memória alocada: 840 bytes
+210 4.040000
+# Tamanho do vetor: 220
+# Tamanho da memória alocada: 880 bytes
+220 5.000000
+# Tamanho do vetor: 230
+# Tamanho da memória alocada: 920 bytes
+230 4.670000
+# Tamanho do vetor: 240
+# Tamanho da memória alocada: 960 bytes
+240 5.310000
+# Tamanho do vetor: 250
+# Tamanho da memória alocada: 1000 bytes
+250 5.310000
+# Tamanho do vetor: 260
+# Tamanho da memória alocada: 1040 bytes
+260 5.550000
+# Tamanho do vetor: 270
+# Tamanho da memória alocada: 1080 bytes
+270 6.170000
+# Tamanho do vetor: 280
+# Tamanho da memória alocada: 1120 bytes
+280 5.700000
+# Tamanho do vetor: 290
+# Tamanho da memória alocada: 1160 bytes
+290 5.700000
+# Tamanho do vetor: 300
+# Tamanho da memória alocada: 1200 bytes
+300 6.060000
+# Tamanho do vetor: 310
+# Tamanho da memória alocada: 1240 bytes
+310 6.580000
+# Tamanho do vetor: 320
+# Tamanho da memória alocada: 1280 bytes
+320 6.700000
+# Tamanho do vetor: 330
+# Tamanho da memória alocada: 1320 bytes
+330 8.050000
+# Tamanho do vetor: 340
+# Tamanho da memória alocada: 1360 bytes
+340 6.610000
+# Tamanho do vetor: 350
+# Tamanho da memória alocada: 1400 bytes
+350 6.680000
+# Tamanho do vetor: 360
+# Tamanho da memória alocada: 1440 bytes
+360 6.980000
+# Tamanho do vetor: 370
+# Tamanho da memória alocada: 1480 bytes
+370 7.350000
+# Tamanho do vetor: 380
+# Tamanho da memória alocada: 1520 bytes
+380 6.920000
+# Tamanho do vetor: 390
+# Tamanho da memória alocada: 1560 bytes
+390 7.360000
+# Tamanho do vetor: 400
+# Tamanho da memória alocada: 1600 bytes
+400 7.900000
+# Tamanho do vetor: 410
+# Tamanho da memória alocada: 1640 bytes
+410 7.220000
+# Tamanho do vetor: 420
+# Tamanho da memória alocada: 1680 bytes
+420 7.920000
+# Tamanho do vetor: 430
+# Tamanho da memória alocada: 1720 bytes
+430 8.540000
+# Tamanho do vetor: 440
+# Tamanho da memória alocada: 1760 bytes
+440 7.640000
+# Tamanho do vetor: 450
+# Tamanho da memória alocada: 1800 bytes
+450 8.830000
+# Tamanho do vetor: 460
+# Tamanho da memória alocada: 1840 bytes
+460 11.420000
+# Tamanho do vetor: 470
+# Tamanho da memória alocada: 1880 bytes
+470 8.230000
+# Tamanho do vetor: 480
+# Tamanho da memória alocada: 1920 bytes
+480 8.580000
+# Tamanho do vetor: 490
+# Tamanho da memória alocada: 1960 bytes
+490 8.680000
+# Tamanho do vetor: 500
+# Tamanho da memória alocada: 2000 bytes
+500 9.750000
+# Tamanho do vetor: 510
+# Tamanho da memória alocada: 2040 bytes
+510 10.670000
+# Tamanho do vetor: 520
+# Tamanho da memória alocada: 2080 bytes
+520 9.690000
+# Tamanho do vetor: 530
+# Tamanho da memória alocada: 2120 bytes
+530 11.500000
+# Tamanho do vetor: 540
+# Tamanho da memória alocada: 2160 bytes
+540 14.640000
+# Tamanho do vetor: 550
+# Tamanho da memória alocada: 2200 bytes
+550 12.370000
+# Tamanho do vetor: 560
+# Tamanho da memória alocada: 2240 bytes
+560 15.370000
+# Tamanho do vetor: 570
+# Tamanho da memória alocada: 2280 bytes
+570 13.860000
+# Tamanho do vetor: 580
+# Tamanho da memória alocada: 2320 bytes
+580 12.970000
+# Tamanho do vetor: 590
+# Tamanho da memória alocada: 2360 bytes
+590 10.450000
+# Tamanho do vetor: 600
+# Tamanho da memória alocada: 2400 bytes
+600 10.550000
+# Tamanho do vetor: 610
+# Tamanho da memória alocada: 2440 bytes
+610 18.440000
+# Tamanho do vetor: 620
+# Tamanho da memória alocada: 2480 bytes
+620 11.810000
+# Tamanho do vetor: 630
+# Tamanho da memória alocada: 2520 bytes
+630 11.130000
+# Tamanho do vetor: 640
+# Tamanho da memória alocada: 2560 bytes
+640 11.620000
+# Tamanho do vetor: 650
+# Tamanho da memória alocada: 2600 bytes
+650 13.540000
+# Tamanho do vetor: 660
+# Tamanho da memória alocada: 2640 bytes
+660 11.710000
+# Tamanho do vetor: 670
+# Tamanho da memória alocada: 2680 bytes
+670 11.380000
+# Tamanho do vetor: 680
+# Tamanho da memória alocada: 2720 bytes
+680 13.390000
+# Tamanho do vetor: 690
+# Tamanho da memória alocada: 2760 bytes
+690 20.050000
+# Tamanho do vetor: 700
+# Tamanho da memória alocada: 2800 bytes
+700 12.490000
+# Tamanho do vetor: 710
+# Tamanho da memória alocada: 2840 bytes
+710 13.620000
+# Tamanho do vetor: 720
+# Tamanho da memória alocada: 2880 bytes
+720 11.810000
+# Tamanho do vetor: 730
+# Tamanho da memória alocada: 2920 bytes
+730 12.850000
+# Tamanho do vetor: 740
+# Tamanho da memória alocada: 2960 bytes
+740 15.540000
+# Tamanho do vetor: 750
+# Tamanho da memória alocada: 3000 bytes
+750 13.410000
+# Tamanho do vetor: 760
+# Tamanho da memória alocada: 3040 bytes
+760 14.140000
+# Tamanho do vetor: 770
+# Tamanho da memória alocada: 3080 bytes
+770 14.090000
+# Tamanho do vetor: 780
+# Tamanho da memória alocada: 3120 bytes
+780 14.430000
+# Tamanho do vetor: 790
+# Tamanho da memória alocada: 3160 bytes
+790 15.000000
+# Tamanho do vetor: 800
+# Tamanho da memória alocada: 3200 bytes
+800 14.750000
+# Tamanho do vetor: 810
+# Tamanho da memória alocada: 3240 bytes
+810 15.320000
+# Tamanho do vetor: 820
+# Tamanho da memória alocada: 3280 bytes
+820 16.120000
+# Tamanho do vetor: 830
+# Tamanho da memória alocada: 3320 bytes
+830 17.830000
+# Tamanho do vetor: 840
+# Tamanho da memória alocada: 3360 bytes
+840 15.010000
+# Tamanho do vetor: 850
+# Tamanho da memória alocada: 3400 bytes
+850 14.360000
+# Tamanho do vetor: 860
+# Tamanho da memória alocada: 3440 bytes
+860 15.010000
+# Tamanho do vetor: 870
+# Tamanho da memória alocada: 3480 bytes
+870 15.090000
+# Tamanho do vetor: 880
+# Tamanho da memória alocada: 3520 bytes
+880 16.130000
+# Tamanho do vetor: 890
+# Tamanho da memória alocada: 3560 bytes
+890 15.340000
+# Tamanho do vetor: 900
+# Tamanho da memória alocada: 3600 bytes
+900 14.750000
+# Tamanho do vetor: 910
+# Tamanho da memória alocada: 3640 bytes
+910 15.880000
+# Tamanho do vetor: 920
+# Tamanho da memória alocada: 3680 bytes
+920 18.400000
+# Tamanho do vetor: 930
+# Tamanho da memória alocada: 3720 bytes
+930 15.370000
+# Tamanho do vetor: 940
+# Tamanho da memória alocada: 3760 bytes
+940 16.240000
+# Tamanho do vetor: 950
+# Tamanho da memória alocada: 3800 bytes
+950 17.200000
+# Tamanho do vetor: 960
+# Tamanho da memória alocada: 3840 bytes
+960 18.110000
+# Tamanho do vetor: 970
+# Tamanho da memória alocada: 3880 bytes
+970 16.310000
+# Tamanho do vetor: 980
+# Tamanho da memória alocada: 3920 bytes
+980 17.530000
+# Tamanho do vetor: 990
+# Tamanho da memória alocada: 3960 bytes
+990 17.990000
+# Tamanho do vetor: 1000
+# Tamanho da memória alocada: 4000 bytes
+1000 17.690000
+# Tamanho do vetor: 1010
+# Tamanho da memória alocada: 4040 bytes
+1010 16.690000
+# Tamanho do vetor: 1020
+# Tamanho da memória alocada: 4080 bytes
+1020 26.950000
+# Tamanho do vetor: 1030
+# Tamanho da memória alocada: 4120 bytes
+1030 40.250000
+# Tamanho do vetor: 1040
+# Tamanho da memória alocada: 4160 bytes
+1040 33.120000
+# Tamanho do vetor: 1050
+# Tamanho da memória alocada: 4200 bytes
+1050 19.610000
+# Tamanho do vetor: 1060
+# Tamanho da memória alocada: 4240 bytes
+1060 18.770000
+# Tamanho do vetor: 1070
+# Tamanho da memória alocada: 4280 bytes
+1070 25.630000
+# Tamanho do vetor: 1080
+# Tamanho da memória alocada: 4320 bytes
+1080 17.960000
+# Tamanho do vetor: 1090
+# Tamanho da memória alocada: 4360 bytes
+1090 22.510000
+# Tamanho do vetor: 1100
+# Tamanho da memória alocada: 4400 bytes
+1100 20.190000
+# Tamanho do vetor: 1110
+# Tamanho da memória alocada: 4440 bytes
+1110 19.650000
+# Tamanho do vetor: 1120
+# Tamanho da memória alocada: 4480 bytes
+1120 19.250000
+# Tamanho do vetor: 1130
+# Tamanho da memória alocada: 4520 bytes
+1130 21.200000
+# Tamanho do vetor: 1140
+# Tamanho da memória alocada: 4560 bytes
+1140 20.970000
+# Tamanho do vetor: 1150
+# Tamanho da memória alocada: 4600 bytes
+1150 20.920000
+# Tamanho do vetor: 1160
+# Tamanho da memória alocada: 4640 bytes
+1160 20.160000
+# Tamanho do vetor: 1170
+# Tamanho da memória alocada: 4680 bytes
+1170 21.980000
+# Tamanho do vetor: 1180
+# Tamanho da memória alocada: 4720 bytes
+1180 20.600000
+# Tamanho do vetor: 1190
+# Tamanho da memória alocada: 4760 bytes
+1190 20.480000
+# Tamanho do vetor: 1200
+# Tamanho da memória alocada: 4800 bytes
+1200 20.450000
+# Tamanho do vetor: 1210
+# Tamanho da memória alocada: 4840 bytes
+1210 22.580000
+# Tamanho do vetor: 1220
+# Tamanho da memória alocada: 4880 bytes
+1220 21.910000
+# Tamanho do vetor: 1230
+# Tamanho da memória alocada: 4920 bytes
+1230 21.280000
+# Tamanho do vetor: 1240
+# Tamanho da memória alocada: 4960 bytes
+1240 23.180000
+# Tamanho do vetor: 1250
+# Tamanho da memória alocada: 5000 bytes
+1250 21.550000
+# Tamanho do vetor: 1260
+# Tamanho da memória alocada: 5040 bytes
+1260 22.410000
+# Tamanho do vetor: 1270
+# Tamanho da memória alocada: 5080 bytes
+1270 22.620000
+# Tamanho do vetor: 1280
+# Tamanho da memória alocada: 5120 bytes
+1280 23.320000
+# Tamanho do vetor: 1290
+# Tamanho da memória alocada: 5160 bytes
+1290 25.220000
+# Tamanho do vetor: 1300
+# Tamanho da memória alocada: 5200 bytes
+1300 25.470000
+# Tamanho do vetor: 1310
+# Tamanho da memória alocada: 5240 bytes
+1310 21.590000
+# Tamanho do vetor: 1320
+# Tamanho da memória alocada: 5280 bytes
+1320 22.420000
+# Tamanho do vetor: 1330
+# Tamanho da memória alocada: 5320 bytes
+1330 22.690000
+# Tamanho do vetor: 1340
+# Tamanho da memória alocada: 5360 bytes
+1340 24.040000
+# Tamanho do vetor: 1350
+# Tamanho da memória alocada: 5400 bytes
+1350 23.650000
+# Tamanho do vetor: 1360
+# Tamanho da memória alocada: 5440 bytes
+1360 24.590000
+# Tamanho do vetor: 1370
+# Tamanho da memória alocada: 5480 bytes
+1370 24.450000
+# Tamanho do vetor: 1380
+# Tamanho da memória alocada: 5520 bytes
+1380 23.800000
+# Tamanho do vetor: 1390
+# Tamanho da memória alocada: 5560 bytes
+1390 24.900000
+# Tamanho do vetor: 1400
+# Tamanho da memória alocada: 5600 bytes
+1400 26.140000
+# Tamanho do vetor: 1410
+# Tamanho da memória alocada: 5640 bytes
+1410 27.530000
+# Tamanho do vetor: 1420
+# Tamanho da memória alocada: 5680 bytes
+1420 49.210000
+# Tamanho do vetor: 1430
+# Tamanho da memória alocada: 5720 bytes
+1430 27.080000
+# Tamanho do vetor: 1440
+# Tamanho da memória alocada: 5760 bytes
+1440 26.510000
+# Tamanho do vetor: 1450
+# Tamanho da memória alocada: 5800 bytes
+1450 25.400000
+# Tamanho do vetor: 1460
+# Tamanho da memória alocada: 5840 bytes
+1460 30.100000
+# Tamanho do vetor: 1470
+# Tamanho da memória alocada: 5880 bytes
+1470 26.360000
+# Tamanho do vetor: 1480
+# Tamanho da memória alocada: 5920 bytes
+1480 32.010000
+# Tamanho do vetor: 1490
+# Tamanho da memória alocada: 5960 bytes
+1490 28.330000
+# Tamanho do vetor: 1500
+# Tamanho da memória alocada: 6000 bytes
+1500 25.750000
+# Tamanho do vetor: 1510
+# Tamanho da memória alocada: 6040 bytes
+1510 25.880000
+# Tamanho do vetor: 1520
+# Tamanho da memória alocada: 6080 bytes
+1520 26.970000
+# Tamanho do vetor: 1530
+# Tamanho da memória alocada: 6120 bytes
+1530 26.590000
+# Tamanho do vetor: 1540
+# Tamanho da memória alocada: 6160 bytes
+1540 25.970000
+# Tamanho do vetor: 1550
+# Tamanho da memória alocada: 6200 bytes
+1550 27.340000
+# Tamanho do vetor: 1560
+# Tamanho da memória alocada: 6240 bytes
+1560 27.440000
+# Tamanho do vetor: 1570
+# Tamanho da memória alocada: 6280 bytes
+1570 28.120000
+# Tamanho do vetor: 1580
+# Tamanho da memória alocada: 6320 bytes
+1580 34.980000
+# Tamanho do vetor: 1590
+# Tamanho da memória alocada: 6360 bytes
+1590 27.010000
+# Tamanho do vetor: 1600
+# Tamanho da memória alocada: 6400 bytes
+1600 27.590000
+# Tamanho do vetor: 1610
+# Tamanho da memória alocada: 6440 bytes
+1610 28.740000
+# Tamanho do vetor: 1620
+# Tamanho da memória alocada: 6480 bytes
+1620 27.390000
+# Tamanho do vetor: 1630
+# Tamanho da memória alocada: 6520 bytes
+1630 30.320000
+# Tamanho do vetor: 1640
+# Tamanho da memória alocada: 6560 bytes
+1640 33.610000
+# Tamanho do vetor: 1650
+# Tamanho da memória alocada: 6600 bytes
+1650 28.590000
+# Tamanho do vetor: 1660
+# Tamanho da memória alocada: 6640 bytes
+1660 27.600000
+# Tamanho do vetor: 1670
+# Tamanho da memória alocada: 6680 bytes
+1670 28.590000
+# Tamanho do vetor: 1680
+# Tamanho da memória alocada: 6720 bytes
+1680 31.790000
+# Tamanho do vetor: 1690
+# Tamanho da memória alocada: 6760 bytes
+1690 30.670000
+# Tamanho do vetor: 1700
+# Tamanho da memória alocada: 6800 bytes
+1700 39.670000
+# Tamanho do vetor: 1710
+# Tamanho da memória alocada: 6840 bytes
+1710 33.070000
+# Tamanho do vetor: 1720
+# Tamanho da memória alocada: 6880 bytes
+1720 29.430000
+# Tamanho do vetor: 1730
+# Tamanho da memória alocada: 6920 bytes
+1730 30.330000
+# Tamanho do vetor: 1740
+# Tamanho da memória alocada: 6960 bytes
+1740 33.350000
+# Tamanho do vetor: 1750
+# Tamanho da memória alocada: 7000 bytes
+1750 34.060000
+# Tamanho do vetor: 1760
+# Tamanho da memória alocada: 7040 bytes
+1760 37.160000
+# Tamanho do vetor: 1770
+# Tamanho da memória alocada: 7080 bytes
+1770 33.250000
+# Tamanho do vetor: 1780
+# Tamanho da memória alocada: 7120 bytes
+1780 32.380000
+# Tamanho do vetor: 1790
+# Tamanho da memória alocada: 7160 bytes
+1790 33.590000
+# Tamanho do vetor: 1800
+# Tamanho da memória alocada: 7200 bytes
+1800 33.980000
+# Tamanho do vetor: 1810
+# Tamanho da memória alocada: 7240 bytes
+1810 33.180000
+# Tamanho do vetor: 1820
+# Tamanho da memória alocada: 7280 bytes
+1820 30.730000
+# Tamanho do vetor: 1830
+# Tamanho da memória alocada: 7320 bytes
+1830 32.560000
+# Tamanho do vetor: 1840
+# Tamanho da memória alocada: 7360 bytes
+1840 31.480000
+# Tamanho do vetor: 1850
+# Tamanho da memória alocada: 7400 bytes
+1850 31.830000
+# Tamanho do vetor: 1860
+# Tamanho da memória alocada: 7440 bytes
+1860 30.470000
+# Tamanho do vetor: 1870
+# Tamanho da memória alocada: 7480 bytes
+1870 33.050000
+# Tamanho do vetor: 1880
+# Tamanho da memória alocada: 7520 bytes
+1880 31.900000
+# Tamanho do vetor: 1890
+# Tamanho da memória alocada: 7560 bytes
+1890 32.990000
+# Tamanho do vetor: 1900
+# Tamanho da memória alocada: 7600 bytes
+1900 44.330000
+# Tamanho do vetor: 1910
+# Tamanho da memória alocada: 7640 bytes
+1910 36.220000
+# Tamanho do vetor: 1920
+# Tamanho da memória alocada: 7680 bytes
+1920 33.590000
+# Tamanho do vetor: 1930
+# Tamanho da memória alocada: 7720 bytes
+1930 33.370000
+# Tamanho do vetor: 1940
+# Tamanho da memória alocada: 7760 bytes
+1940 32.690000
+# Tamanho do vetor: 1950
+# Tamanho da memória alocada: 7800 bytes
+1950 32.730000
+# Tamanho do vetor: 1960
+# Tamanho da memória alocada: 7840 bytes
+1960 33.430000
+# Tamanho do vetor: 1970
+# Tamanho da memória alocada: 7880 bytes
+1970 40.550000
+# Tamanho do vetor: 1980
+# Tamanho da memória alocada: 7920 bytes
+1980 40.710000
+# Tamanho do vetor: 1990
+# Tamanho da memória alocada: 7960 bytes
+1990 35.720000
+# Tamanho do vetor: 2000
+# Tamanho da memória alocada: 8000 bytes
+2000 35.420000
+# Tamanho do vetor: 2010
+# Tamanho da memória alocada: 8040 bytes
+2010 35.020000
+# Tamanho do vetor: 2020
+# Tamanho da memória alocada: 8080 bytes
+2020 34.350000
+# Tamanho do vetor: 2030
+# Tamanho da memória alocada: 8120 bytes
+2030 35.000000
+# Tamanho do vetor: 2040
+# Tamanho da memória alocada: 8160 bytes
+2040 35.910000
+# Tamanho do vetor: 2050
+# Tamanho da memória alocada: 8200 bytes
+2050 35.110000
+# Tamanho do vetor: 2060
+# Tamanho da memória alocada: 8240 bytes
+2060 35.040000
+# Tamanho do vetor: 2070
+# Tamanho da memória alocada: 8280 bytes
+2070 34.310000
+# Tamanho do vetor: 2080
+# Tamanho da memória alocada: 8320 bytes
+2080 35.070000
+# Tamanho do vetor: 2090
+# Tamanho da memória alocada: 8360 bytes
+2090 38.190000
+# Tamanho do vetor: 2100
+# Tamanho da memória alocada: 8400 bytes
+2100 37.020000
+# Tamanho do vetor: 2110
+# Tamanho da memória alocada: 8440 bytes
+2110 35.270000
+# Tamanho do vetor: 2120
+# Tamanho da memória alocada: 8480 bytes
+2120 35.990000
+# Tamanho do vetor: 2130
+# Tamanho da memória alocada: 8520 bytes
+2130 37.470000
+# Tamanho do vetor: 2140
+# Tamanho da memória alocada: 8560 bytes
+2140 36.660000
+# Tamanho do vetor: 2150
+# Tamanho da memória alocada: 8600 bytes
+2150 35.980000
+# Tamanho do vetor: 2160
+# Tamanho da memória alocada: 8640 bytes
+2160 38.380000
+# Tamanho do vetor: 2170
+# Tamanho da memória alocada: 8680 bytes
+2170 45.670000
+# Tamanho do vetor: 2180
+# Tamanho da memória alocada: 8720 bytes
+2180 37.890000
+# Tamanho do vetor: 2190
+# Tamanho da memória alocada: 8760 bytes
+2190 38.250000
+# Tamanho do vetor: 2200
+# Tamanho da memória alocada: 8800 bytes
+2200 37.170000
+# Tamanho do vetor: 2210
+# Tamanho da memória alocada: 8840 bytes
+2210 40.000000
+# Tamanho do vetor: 2220
+# Tamanho da memória alocada: 8880 bytes
+2220 40.240000
+# Tamanho do vetor: 2230
+# Tamanho da memória alocada: 8920 bytes
+2230 41.160000
+# Tamanho do vetor: 2240
+# Tamanho da memória alocada: 8960 bytes
+2240 37.970000
+# Tamanho do vetor: 2250
+# Tamanho da memória alocada: 9000 bytes
+2250 37.880000
+# Tamanho do vetor: 2260
+# Tamanho da memória alocada: 9040 bytes
+2260 42.730000
+# Tamanho do vetor: 2270
+# Tamanho da memória alocada: 9080 bytes
+2270 40.450000
+# Tamanho do vetor: 2280
+# Tamanho da memória alocada: 9120 bytes
+2280 40.330000
+# Tamanho do vetor: 2290
+# Tamanho da memória alocada: 9160 bytes
+2290 46.830000
+# Tamanho do vetor: 2300
+# Tamanho da memória alocada: 9200 bytes
+2300 38.660000
+# Tamanho do vetor: 2310
+# Tamanho da memória alocada: 9240 bytes
+2310 38.330000
+# Tamanho do vetor: 2320
+# Tamanho da memória alocada: 9280 bytes
+2320 44.290000
+# Tamanho do vetor: 2330
+# Tamanho da memória alocada: 9320 bytes
+2330 40.190000
+# Tamanho do vetor: 2340
+# Tamanho da memória alocada: 9360 bytes
+2340 39.700000
+# Tamanho do vetor: 2350
+# Tamanho da memória alocada: 9400 bytes
+2350 40.640000
+# Tamanho do vetor: 2360
+# Tamanho da memória alocada: 9440 bytes
+2360 39.330000
+# Tamanho do vetor: 2370
+# Tamanho da memória alocada: 9480 bytes
+2370 40.500000
+# Tamanho do vetor: 2380
+# Tamanho da memória alocada: 9520 bytes
+2380 39.530000
+# Tamanho do vetor: 2390
+# Tamanho da memória alocada: 9560 bytes
+2390 41.490000
+# Tamanho do vetor: 2400
+# Tamanho da memória alocada: 9600 bytes
+2400 40.740000
+# Tamanho do vetor: 2410
+# Tamanho da memória alocada: 9640 bytes
+2410 42.040000
+# Tamanho do vetor: 2420
+# Tamanho da memória alocada: 9680 bytes
+2420 49.910000
+# Tamanho do vetor: 2430
+# Tamanho da memória alocada: 9720 bytes
+2430 42.900000
+# Tamanho do vetor: 2440
+# Tamanho da memória alocada: 9760 bytes
+2440 62.310000
+# Tamanho do vetor: 2450
+# Tamanho da memória alocada: 9800 bytes
+2450 90.050000
+# Tamanho do vetor: 2460
+# Tamanho da memória alocada: 9840 bytes
+2460 89.200000
+# Tamanho do vetor: 2470
+# Tamanho da memória alocada: 9880 bytes
+2470 54.000000
+# Tamanho do vetor: 2480
+# Tamanho da memória alocada: 9920 bytes
+2480 47.130000
+# Tamanho do vetor: 2490
+# Tamanho da memória alocada: 9960 bytes
+2490 40.110000
+# Tamanho do vetor: 2500
+# Tamanho da memória alocada: 10000 bytes
+2500 47.060000
+# Tamanho do vetor: 2510
+# Tamanho da memória alocada: 10040 bytes
+2510 47.370000
+# Tamanho do vetor: 2520
+# Tamanho da memória alocada: 10080 bytes
+2520 42.020000
+# Tamanho do vetor: 2530
+# Tamanho da memória alocada: 10120 bytes
+2530 50.270000
+# Tamanho do vetor: 2540
+# Tamanho da memória alocada: 10160 bytes
+2540 44.250000
+# Tamanho do vetor: 2550
+# Tamanho da memória alocada: 10200 bytes
+2550 49.120000
+# Tamanho do vetor: 2560
+# Tamanho da memória alocada: 10240 bytes
+2560 43.540000
+# Tamanho do vetor: 2570
+# Tamanho da memória alocada: 10280 bytes
+2570 43.280000
+# Tamanho do vetor: 2580
+# Tamanho da memória alocada: 10320 bytes
+2580 42.620000
+# Tamanho do vetor: 2590
+# Tamanho da memória alocada: 10360 bytes
+2590 44.030000
+# Tamanho do vetor: 2600
+# Tamanho da memória alocada: 10400 bytes
+2600 42.820000
+# Tamanho do vetor: 2610
+# Tamanho da memória alocada: 10440 bytes
+2610 45.040000
+# Tamanho do vetor: 2620
+# Tamanho da memória alocada: 10480 bytes
+2620 46.310000
+# Tamanho do vetor: 2630
+# Tamanho da memória alocada: 10520 bytes
+2630 48.280000
+# Tamanho do vetor: 2640
+# Tamanho da memória alocada: 10560 bytes
+2640 48.620000
+# Tamanho do vetor: 2650
+# Tamanho da memória alocada: 10600 bytes
+2650 45.680000
+# Tamanho do vetor: 2660
+# Tamanho da memória alocada: 10640 bytes
+2660 52.360000
+# Tamanho do vetor: 2670
+# Tamanho da memória alocada: 10680 bytes
+2670 46.210000
+# Tamanho do vetor: 2680
+# Tamanho da memória alocada: 10720 bytes
+2680 45.230000
+# Tamanho do vetor: 2690
+# Tamanho da memória alocada: 10760 bytes
+2690 44.710000
+# Tamanho do vetor: 2700
+# Tamanho da memória alocada: 10800 bytes
+2700 45.250000
+# Tamanho do vetor: 2710
+# Tamanho da memória alocada: 10840 bytes
+2710 61.830000
+# Tamanho do vetor: 2720
+# Tamanho da memória alocada: 10880 bytes
+2720 47.350000
+# Tamanho do vetor: 2730
+# Tamanho da memória alocada: 10920 bytes
+2730 46.210000
+# Tamanho do vetor: 2740
+# Tamanho da memória alocada: 10960 bytes
+2740 47.860000
+# Tamanho do vetor: 2750
+# Tamanho da memória alocada: 11000 bytes
+2750 47.190000
+# Tamanho do vetor: 2760
+# Tamanho da memória alocada: 11040 bytes
+2760 45.100000
+# Tamanho do vetor: 2770
+# Tamanho da memória alocada: 11080 bytes
+2770 48.420000
+# Tamanho do vetor: 2780
+# Tamanho da memória alocada: 11120 bytes
+2780 51.310000
+# Tamanho do vetor: 2790
+# Tamanho da memória alocada: 11160 bytes
+2790 46.420000
+# Tamanho do vetor: 2800
+# Tamanho da memória alocada: 11200 bytes
+2800 48.270000
+# Tamanho do vetor: 2810
+# Tamanho da memória alocada: 11240 bytes
+2810 48.340000
+# Tamanho do vetor: 2820
+# Tamanho da memória alocada: 11280 bytes
+2820 55.640000
+# Tamanho do vetor: 2830
+# Tamanho da memória alocada: 11320 bytes
+2830 48.320000
+# Tamanho do vetor: 2840
+# Tamanho da memória alocada: 11360 bytes
+2840 46.320000
+# Tamanho do vetor: 2850
+# Tamanho da memória alocada: 11400 bytes
+2850 48.360000
+# Tamanho do vetor: 2860
+# Tamanho da memória alocada: 11440 bytes
+2860 50.950000
+# Tamanho do vetor: 2870
+# Tamanho da memória alocada: 11480 bytes
+2870 49.090000
+# Tamanho do vetor: 2880
+# Tamanho da memória alocada: 11520 bytes
+2880 52.900000
+# Tamanho do vetor: 2890
+# Tamanho da memória alocada: 11560 bytes
+2890 52.510000
+# Tamanho do vetor: 2900
+# Tamanho da memória alocada: 11600 bytes
+2900 48.210000
+# Tamanho do vetor: 2910
+# Tamanho da memória alocada: 11640 bytes
+2910 53.400000
+# Tamanho do vetor: 2920
+# Tamanho da memória alocada: 11680 bytes
+2920 51.290000
+# Tamanho do vetor: 2930
+# Tamanho da memória alocada: 11720 bytes
+2930 51.440000
+# Tamanho do vetor: 2940
+# Tamanho da memória alocada: 11760 bytes
+2940 50.720000
+# Tamanho do vetor: 2950
+# Tamanho da memória alocada: 11800 bytes
+2950 52.920000
+# Tamanho do vetor: 2960
+# Tamanho da memória alocada: 11840 bytes
+2960 76.590000
+# Tamanho do vetor: 2970
+# Tamanho da memória alocada: 11880 bytes
+2970 51.730000
+# Tamanho do vetor: 2980
+# Tamanho da memória alocada: 11920 bytes
+2980 60.820000
+# Tamanho do vetor: 2990
+# Tamanho da memória alocada: 11960 bytes
+2990 65.550000
+# Tamanho do vetor: 3000
+# Tamanho da memória alocada: 12000 bytes
+3000 50.490000
+# Tamanho do vetor: 3010
+# Tamanho da memória alocada: 12040 bytes
+3010 49.940000
+# Tamanho do vetor: 3020
+# Tamanho da memória alocada: 12080 bytes
+3020 56.060000
+# Tamanho do vetor: 3030
+# Tamanho da memória alocada: 12120 bytes
+3030 53.460000
+# Tamanho do vetor: 3040
+# Tamanho da memória alocada: 12160 bytes
+3040 52.540000
+# Tamanho do vetor: 3050
+# Tamanho da memória alocada: 12200 bytes
+3050 52.260000
+# Tamanho do vetor: 3060
+# Tamanho da memória alocada: 12240 bytes
+3060 53.200000
+# Tamanho do vetor: 3070
+# Tamanho da memória alocada: 12280 bytes
+3070 50.540000
+# Tamanho do vetor: 3080
+# Tamanho da memória alocada: 12320 bytes
+3080 51.970000
+# Tamanho do vetor: 3090
+# Tamanho da memória alocada: 12360 bytes
+3090 52.760000
+# Tamanho do vetor: 3100
+# Tamanho da memória alocada: 12400 bytes
+3100 55.780000
+# Tamanho do vetor: 3110
+# Tamanho da memória alocada: 12440 bytes
+3110 53.720000
+# Tamanho do vetor: 3120
+# Tamanho da memória alocada: 12480 bytes
+3120 57.800000
+# Tamanho do vetor: 3130
+# Tamanho da memória alocada: 12520 bytes
+3130 54.990000
+# Tamanho do vetor: 3140
+# Tamanho da memória alocada: 12560 bytes
+3140 57.260000
+# Tamanho do vetor: 3150
+# Tamanho da memória alocada: 12600 bytes
+3150 52.840000
+# Tamanho do vetor: 3160
+# Tamanho da memória alocada: 12640 bytes
+3160 58.130000
+# Tamanho do vetor: 3170
+# Tamanho da memória alocada: 12680 bytes
+3170 58.420000
+# Tamanho do vetor: 3180
+# Tamanho da memória alocada: 12720 bytes
+3180 56.730000
+# Tamanho do vetor: 3190
+# Tamanho da memória alocada: 12760 bytes
+3190 54.810000
+# Tamanho do vetor: 3200
+# Tamanho da memória alocada: 12800 bytes
+3200 54.280000
+# Tamanho do vetor: 3210
+# Tamanho da memória alocada: 12840 bytes
+3210 64.370000
+# Tamanho do vetor: 3220
+# Tamanho da memória alocada: 12880 bytes
+3220 63.410000
+# Tamanho do vetor: 3230
+# Tamanho da memória alocada: 12920 bytes
+3230 74.240000
+# Tamanho do vetor: 3240
+# Tamanho da memória alocada: 12960 bytes
+3240 72.340000
+# Tamanho do vetor: 3250
+# Tamanho da memória alocada: 13000 bytes
+3250 59.040000
+# Tamanho do vetor: 3260
+# Tamanho da memória alocada: 13040 bytes
+3260 60.080000
+# Tamanho do vetor: 3270
+# Tamanho da memória alocada: 13080 bytes
+3270 58.290000
+# Tamanho do vetor: 3280
+# Tamanho da memória alocada: 13120 bytes
+3280 52.620000
+# Tamanho do vetor: 3290
+# Tamanho da memória alocada: 13160 bytes
+3290 58.800000
+# Tamanho do vetor: 3300
+# Tamanho da memória alocada: 13200 bytes
+3300 58.090000
+# Tamanho do vetor: 3310
+# Tamanho da memória alocada: 13240 bytes
+3310 56.900000
+# Tamanho do vetor: 3320
+# Tamanho da memória alocada: 13280 bytes
+3320 58.690000
+# Tamanho do vetor: 3330
+# Tamanho da memória alocada: 13320 bytes
+3330 66.210000
+# Tamanho do vetor: 3340
+# Tamanho da memória alocada: 13360 bytes
+3340 100.990000
+# Tamanho do vetor: 3350
+# Tamanho da memória alocada: 13400 bytes
+3350 116.150000
+# Tamanho do vetor: 3360
+# Tamanho da memória alocada: 13440 bytes
+3360 78.460000
+# Tamanho do vetor: 3370
+# Tamanho da memória alocada: 13480 bytes
+3370 61.070000
+# Tamanho do vetor: 3380
+# Tamanho da memória alocada: 13520 bytes
+3380 58.920000
+# Tamanho do vetor: 3390
+# Tamanho da memória alocada: 13560 bytes
+3390 58.970000
+# Tamanho do vetor: 3400
+# Tamanho da memória alocada: 13600 bytes
+3400 59.410000
+# Tamanho do vetor: 3410
+# Tamanho da memória alocada: 13640 bytes
+3410 57.670000
+# Tamanho do vetor: 3420
+# Tamanho da memória alocada: 13680 bytes
+3420 57.030000
+# Tamanho do vetor: 3430
+# Tamanho da memória alocada: 13720 bytes
+3430 67.190000
+# Tamanho do vetor: 3440
+# Tamanho da memória alocada: 13760 bytes
+3440 57.780000
+# Tamanho do vetor: 3450
+# Tamanho da memória alocada: 13800 bytes
+3450 64.840000
+# Tamanho do vetor: 3460
+# Tamanho da memória alocada: 13840 bytes
+3460 62.270000
+# Tamanho do vetor: 3470
+# Tamanho da memória alocada: 13880 bytes
+3470 63.300000
+# Tamanho do vetor: 3480
+# Tamanho da memória alocada: 13920 bytes
+3480 61.150000
+# Tamanho do vetor: 3490
+# Tamanho da memória alocada: 13960 bytes
+3490 83.560000
+# Tamanho do vetor: 3500
+# Tamanho da memória alocada: 14000 bytes
+3500 68.060000
+# Tamanho do vetor: 3510
+# Tamanho da memória alocada: 14040 bytes
+3510 61.190000
+# Tamanho do vetor: 3520
+# Tamanho da memória alocada: 14080 bytes
+3520 62.120000
+# Tamanho do vetor: 3530
+# Tamanho da memória alocada: 14120 bytes
+3530 62.020000
+# Tamanho do vetor: 3540
+# Tamanho da memória alocada: 14160 bytes
+3540 61.550000
+# Tamanho do vetor: 3550
+# Tamanho da memória alocada: 14200 bytes
+3550 62.870000
+# Tamanho do vetor: 3560
+# Tamanho da memória alocada: 14240 bytes
+3560 63.720000
+# Tamanho do vetor: 3570
+# Tamanho da memória alocada: 14280 bytes
+3570 63.230000
+# Tamanho do vetor: 3580
+# Tamanho da memória alocada: 14320 bytes
+3580 106.060000
+# Tamanho do vetor: 3590
+# Tamanho da memória alocada: 14360 bytes
+3590 94.490000
+# Tamanho do vetor: 3600
+# Tamanho da memória alocada: 14400 bytes
+3600 108.850000
+# Tamanho do vetor: 3610
+# Tamanho da memória alocada: 14440 bytes
+3610 89.990000
+# Tamanho do vetor: 3620
+# Tamanho da memória alocada: 14480 bytes
+3620 68.480000
+# Tamanho do vetor: 3630
+# Tamanho da memória alocada: 14520 bytes
+3630 68.480000
+# Tamanho do vetor: 3640
+# Tamanho da memória alocada: 14560 bytes
+3640 67.480000
+# Tamanho do vetor: 3650
+# Tamanho da memória alocada: 14600 bytes
+3650 80.240000
+# Tamanho do vetor: 3660
+# Tamanho da memória alocada: 14640 bytes
+3660 62.920000
+# Tamanho do vetor: 3670
+# Tamanho da memória alocada: 14680 bytes
+3670 64.710000
+# Tamanho do vetor: 3680
+# Tamanho da memória alocada: 14720 bytes
+3680 64.140000
+# Tamanho do vetor: 3690
+# Tamanho da memória alocada: 14760 bytes
+3690 60.350000
+# Tamanho do vetor: 3700
+# Tamanho da memória alocada: 14800 bytes
+3700 61.670000
+# Tamanho do vetor: 3710
+# Tamanho da memória alocada: 14840 bytes
+3710 62.560000
+# Tamanho do vetor: 3720
+# Tamanho da memória alocada: 14880 bytes
+3720 62.790000
+# Tamanho do vetor: 3730
+# Tamanho da memória alocada: 14920 bytes
+3730 63.600000
+# Tamanho do vetor: 3740
+# Tamanho da memória alocada: 14960 bytes
+3740 72.790000
+# Tamanho do vetor: 3750
+# Tamanho da memória alocada: 15000 bytes
+3750 66.790000
+# Tamanho do vetor: 3760
+# Tamanho da memória alocada: 15040 bytes
+3760 66.970000
+# Tamanho do vetor: 3770
+# Tamanho da memória alocada: 15080 bytes
+3770 63.970000
+# Tamanho do vetor: 3780
+# Tamanho da memória alocada: 15120 bytes
+3780 64.630000
+# Tamanho do vetor: 3790
+# Tamanho da memória alocada: 15160 bytes
+3790 62.600000
+# Tamanho do vetor: 3800
+# Tamanho da memória alocada: 15200 bytes
+3800 62.720000
+# Tamanho do vetor: 3810
+# Tamanho da memória alocada: 15240 bytes
+3810 67.670000
+# Tamanho do vetor: 3820
+# Tamanho da memória alocada: 15280 bytes
+3820 60.830000
+# Tamanho do vetor: 3830
+# Tamanho da memória alocada: 15320 bytes
+3830 68.990000
+# Tamanho do vetor: 3840
+# Tamanho da memória alocada: 15360 bytes
+3840 66.440000
+# Tamanho do vetor: 3850
+# Tamanho da memória alocada: 15400 bytes
+3850 65.130000
+# Tamanho do vetor: 3860
+# Tamanho da memória alocada: 15440 bytes
+3860 66.540000
+# Tamanho do vetor: 3870
+# Tamanho da memória alocada: 15480 bytes
+3870 64.220000
+# Tamanho do vetor: 3880
+# Tamanho da memória alocada: 15520 bytes
+3880 68.330000
+# Tamanho do vetor: 3890
+# Tamanho da memória alocada: 15560 bytes
+3890 76.960000
+# Tamanho do vetor: 3900
+# Tamanho da memória alocada: 15600 bytes
+3900 67.180000
+# Tamanho do vetor: 3910
+# Tamanho da memória alocada: 15640 bytes
+3910 69.380000
+# Tamanho do vetor: 3920
+# Tamanho da memória alocada: 15680 bytes
+3920 68.690000
+# Tamanho do vetor: 3930
+# Tamanho da memória alocada: 15720 bytes
+3930 69.340000
+# Tamanho do vetor: 3940
+# Tamanho da memória alocada: 15760 bytes
+3940 67.550000
+# Tamanho do vetor: 3950
+# Tamanho da memória alocada: 15800 bytes
+3950 73.460000
+# Tamanho do vetor: 3960
+# Tamanho da memória alocada: 15840 bytes
+3960 110.150000
+# Tamanho do vetor: 3970
+# Tamanho da memória alocada: 15880 bytes
+3970 95.650000
+# Tamanho do vetor: 3980
+# Tamanho da memória alocada: 15920 bytes
+3980 67.910000
+# Tamanho do vetor: 3990
+# Tamanho da memória alocada: 15960 bytes
+3990 106.790000
+# Tamanho do vetor: 4000
+# Tamanho da memória alocada: 16000 bytes
+4000 94.560000
+# Tamanho do vetor: 4010
+# Tamanho da memória alocada: 16040 bytes
+4010 68.790000
+# Tamanho do vetor: 4020
+# Tamanho da memória alocada: 16080 bytes
+4020 72.380000
+# Tamanho do vetor: 4030
+# Tamanho da memória alocada: 16120 bytes
+4030 69.020000
+# Tamanho do vetor: 4040
+# Tamanho da memória alocada: 16160 bytes
+4040 72.660000
+# Tamanho do vetor: 4050
+# Tamanho da memória alocada: 16200 bytes
+4050 78.630000
+# Tamanho do vetor: 4060
+# Tamanho da memória alocada: 16240 bytes
+4060 71.760000
+# Tamanho do vetor: 4070
+# Tamanho da memória alocada: 16280 bytes
+4070 64.650000
+# Tamanho do vetor: 4080
+# Tamanho da memória alocada: 16320 bytes
+4080 74.240000
+# Tamanho do vetor: 4090
+# Tamanho da memória alocada: 16360 bytes
+4090 67.850000
+# Tamanho do vetor: 4100
+# Tamanho da memória alocada: 16400 bytes
+4100 76.970000
+# Tamanho do vetor: 4110
+# Tamanho da memória alocada: 16440 bytes
+4110 67.220000
+# Tamanho do vetor: 4120
+# Tamanho da memória alocada: 16480 bytes
+4120 66.720000
+# Tamanho do vetor: 4130
+# Tamanho da memória alocada: 16520 bytes
+4130 68.880000
+# Tamanho do vetor: 4140
+# Tamanho da memória alocada: 16560 bytes
+4140 72.000000
+# Tamanho do vetor: 4150
+# Tamanho da memória alocada: 16600 bytes
+4150 71.280000
+# Tamanho do vetor: 4160
+# Tamanho da memória alocada: 16640 bytes
+4160 73.470000
+# Tamanho do vetor: 4170
+# Tamanho da memória alocada: 16680 bytes
+4170 69.480000
+# Tamanho do vetor: 4180
+# Tamanho da memória alocada: 16720 bytes
+4180 72.250000
+# Tamanho do vetor: 4190
+# Tamanho da memória alocada: 16760 bytes
+4190 77.780000
+# Tamanho do vetor: 4200
+# Tamanho da memória alocada: 16800 bytes
+4200 136.370000
+# Tamanho do vetor: 4210
+# Tamanho da memória alocada: 16840 bytes
+4210 70.820000
+# Tamanho do vetor: 4220
+# Tamanho da memória alocada: 16880 bytes
+4220 75.820000
+# Tamanho do vetor: 4230
+# Tamanho da memória alocada: 16920 bytes
+4230 73.800000
+# Tamanho do vetor: 4240
+# Tamanho da memória alocada: 16960 bytes
+4240 73.140000
+# Tamanho do vetor: 4250
+# Tamanho da memória alocada: 17000 bytes
+4250 70.890000
+# Tamanho do vetor: 4260
+# Tamanho da memória alocada: 17040 bytes
+4260 74.170000
+# Tamanho do vetor: 4270
+# Tamanho da memória alocada: 17080 bytes
+4270 78.010000
+# Tamanho do vetor: 4280
+# Tamanho da memória alocada: 17120 bytes
+4280 73.650000
+# Tamanho do vetor: 4290
+# Tamanho da memória alocada: 17160 bytes
+4290 75.980000
+# Tamanho do vetor: 4300
+# Tamanho da memória alocada: 17200 bytes
+4300 72.790000
+# Tamanho do vetor: 4310
+# Tamanho da memória alocada: 17240 bytes
+4310 80.280000
+# Tamanho do vetor: 4320
+# Tamanho da memória alocada: 17280 bytes
+4320 76.010000
+# Tamanho do vetor: 4330
+# Tamanho da memória alocada: 17320 bytes
+4330 74.500000
+# Tamanho do vetor: 4340
+# Tamanho da memória alocada: 17360 bytes
+4340 75.160000
+# Tamanho do vetor: 4350
+# Tamanho da memória alocada: 17400 bytes
+4350 78.410000
+# Tamanho do vetor: 4360
+# Tamanho da memória alocada: 17440 bytes
+4360 73.760000
+# Tamanho do vetor: 4370
+# Tamanho da memória alocada: 17480 bytes
+4370 72.850000
+# Tamanho do vetor: 4380
+# Tamanho da memória alocada: 17520 bytes
+4380 89.960000
+# Tamanho do vetor: 4390
+# Tamanho da memória alocada: 17560 bytes
+4390 81.270000
+# Tamanho do vetor: 4400
+# Tamanho da memória alocada: 17600 bytes
+4400 72.930000
+# Tamanho do vetor: 4410
+# Tamanho da memória alocada: 17640 bytes
+4410 77.070000
+# Tamanho do vetor: 4420
+# Tamanho da memória alocada: 17680 bytes
+4420 74.320000
+# Tamanho do vetor: 4430
+# Tamanho da memória alocada: 17720 bytes
+4430 75.740000
+# Tamanho do vetor: 4440
+# Tamanho da memória alocada: 17760 bytes
+4440 76.740000
+# Tamanho do vetor: 4450
+# Tamanho da memória alocada: 17800 bytes
+4450 73.510000
+# Tamanho do vetor: 4460
+# Tamanho da memória alocada: 17840 bytes
+4460 91.170000
+# Tamanho do vetor: 4470
+# Tamanho da memória alocada: 17880 bytes
+4470 85.520000
+# Tamanho do vetor: 4480
+# Tamanho da memória alocada: 17920 bytes
+4480 86.120000
+# Tamanho do vetor: 4490
+# Tamanho da memória alocada: 17960 bytes
+4490 76.590000
+# Tamanho do vetor: 4500
+# Tamanho da memória alocada: 18000 bytes
+4500 85.000000
+# Tamanho do vetor: 4510
+# Tamanho da memória alocada: 18040 bytes
+4510 99.140000
+# Tamanho do vetor: 4520
+# Tamanho da memória alocada: 18080 bytes
+4520 80.980000
+# Tamanho do vetor: 4530
+# Tamanho da memória alocada: 18120 bytes
+4530 80.540000
+# Tamanho do vetor: 4540
+# Tamanho da memória alocada: 18160 bytes
+4540 75.450000
+# Tamanho do vetor: 4550
+# Tamanho da memória alocada: 18200 bytes
+4550 80.300000
+# Tamanho do vetor: 4560
+# Tamanho da memória alocada: 18240 bytes
+4560 77.650000
+# Tamanho do vetor: 4570
+# Tamanho da memória alocada: 18280 bytes
+4570 159.370000
+# Tamanho do vetor: 4580
+# Tamanho da memória alocada: 18320 bytes
+4580 83.490000
+# Tamanho do vetor: 4590
+# Tamanho da memória alocada: 18360 bytes
+4590 80.040000
+# Tamanho do vetor: 4600
+# Tamanho da memória alocada: 18400 bytes
+4600 80.010000
+# Tamanho do vetor: 4610
+# Tamanho da memória alocada: 18440 bytes
+4610 85.740000
+# Tamanho do vetor: 4620
+# Tamanho da memória alocada: 18480 bytes
+4620 81.550000
+# Tamanho do vetor: 4630
+# Tamanho da memória alocada: 18520 bytes
+4630 98.200000
+# Tamanho do vetor: 4640
+# Tamanho da memória alocada: 18560 bytes
+4640 84.300000
+# Tamanho do vetor: 4650
+# Tamanho da memória alocada: 18600 bytes
+4650 81.380000
+# Tamanho do vetor: 4660
+# Tamanho da memória alocada: 18640 bytes
+4660 83.660000
+# Tamanho do vetor: 4670
+# Tamanho da memória alocada: 18680 bytes
+4670 77.540000
+# Tamanho do vetor: 4680
+# Tamanho da memória alocada: 18720 bytes
+4680 100.840000
+# Tamanho do vetor: 4690
+# Tamanho da memória alocada: 18760 bytes
+4690 92.760000
+# Tamanho do vetor: 4700
+# Tamanho da memória alocada: 18800 bytes
+4700 78.210000
+# Tamanho do vetor: 4710
+# Tamanho da memória alocada: 18840 bytes
+4710 87.450000
+# Tamanho do vetor: 4720
+# Tamanho da memória alocada: 18880 bytes
+4720 84.690000
+# Tamanho do vetor: 4730
+# Tamanho da memória alocada: 18920 bytes
+4730 87.840000
+# Tamanho do vetor: 4740
+# Tamanho da memória alocada: 18960 bytes
+4740 102.930000
+# Tamanho do vetor: 4750
+# Tamanho da memória alocada: 19000 bytes
+4750 87.450000
+# Tamanho do vetor: 4760
+# Tamanho da memória alocada: 19040 bytes
+4760 80.750000
+# Tamanho do vetor: 4770
+# Tamanho da memória alocada: 19080 bytes
+4770 102.370000
+# Tamanho do vetor: 4780
+# Tamanho da memória alocada: 19120 bytes
+4780 144.390000
+# Tamanho do vetor: 4790
+# Tamanho da memória alocada: 19160 bytes
+4790 87.200000
+# Tamanho do vetor: 4800
+# Tamanho da memória alocada: 19200 bytes
+4800 91.750000
+# Tamanho do vetor: 4810
+# Tamanho da memória alocada: 19240 bytes
+4810 92.860000
+# Tamanho do vetor: 4820
+# Tamanho da memória alocada: 19280 bytes
+4820 118.460000
+# Tamanho do vetor: 4830
+# Tamanho da memória alocada: 19320 bytes
+4830 81.010000
+# Tamanho do vetor: 4840
+# Tamanho da memória alocada: 19360 bytes
+4840 79.500000
+# Tamanho do vetor: 4850
+# Tamanho da memória alocada: 19400 bytes
+4850 99.690000
+# Tamanho do vetor: 4860
+# Tamanho da memória alocada: 19440 bytes
+4860 81.710000
+# Tamanho do vetor: 4870
+# Tamanho da memória alocada: 19480 bytes
+4870 85.170000
+# Tamanho do vetor: 4880
+# Tamanho da memória alocada: 19520 bytes
+4880 94.720000
+# Tamanho do vetor: 4890
+# Tamanho da memória alocada: 19560 bytes
+4890 85.300000
+# Tamanho do vetor: 4900
+# Tamanho da memória alocada: 19600 bytes
+4900 90.250000
+# Tamanho do vetor: 4910
+# Tamanho da memória alocada: 19640 bytes
+4910 83.070000
+# Tamanho do vetor: 4920
+# Tamanho da memória alocada: 19680 bytes
+4920 84.490000
+# Tamanho do vetor: 4930
+# Tamanho da memória alocada: 19720 bytes
+4930 95.710000
+# Tamanho do vetor: 4940
+# Tamanho da memória alocada: 19760 bytes
+4940 98.350000
+# Tamanho do vetor: 4950
+# Tamanho da memória alocada: 19800 bytes
+4950 85.060000
+# Tamanho do vetor: 4960
+# Tamanho da memória alocada: 19840 bytes
+4960 87.900000
+# Tamanho do vetor: 4970
+# Tamanho da memória alocada: 19880 bytes
+4970 154.170000
+# Tamanho do vetor: 4980
+# Tamanho da memória alocada: 19920 bytes
+4980 85.570000
+# Tamanho do vetor: 4990
+# Tamanho da memória alocada: 19960 bytes
+4990 83.940000
+# Tamanho do vetor: 5000
+# Tamanho da memória alocada: 20000 bytes
+5000 86.780000
+# Tamanho do vetor: 5010
+# Tamanho da memória alocada: 20040 bytes
+5010 82.780000
+# Tamanho do vetor: 5020
+# Tamanho da memória alocada: 20080 bytes
+5020 85.010000
+# Tamanho do vetor: 5030
+# Tamanho da memória alocada: 20120 bytes
+5030 145.840000
+# Tamanho do vetor: 5040
+# Tamanho da memória alocada: 20160 bytes
+5040 122.110000
+# Tamanho do vetor: 5050
+# Tamanho da memória alocada: 20200 bytes
+5050 89.490000
+# Tamanho do vetor: 5060
+# Tamanho da memória alocada: 20240 bytes
+5060 84.890000
+# Tamanho do vetor: 5070
+# Tamanho da memória alocada: 20280 bytes
+5070 159.240000
+# Tamanho do vetor: 5080
+# Tamanho da memória alocada: 20320 bytes
+5080 92.370000
+# Tamanho do vetor: 5090
+# Tamanho da memória alocada: 20360 bytes
+5090 101.760000
+# Tamanho do vetor: 5100
+# Tamanho da memória alocada: 20400 bytes
+5100 94.090000
+# Tamanho do vetor: 5110
+# Tamanho da memória alocada: 20440 bytes
+5110 97.700000
+# Tamanho do vetor: 5120
+# Tamanho da memória alocada: 20480 bytes
+5120 98.840000
+# Tamanho do vetor: 5130
+# Tamanho da memória alocada: 20520 bytes
+5130 91.520000
+# Tamanho do vetor: 5140
+# Tamanho da memória alocada: 20560 bytes
+5140 89.800000
+# Tamanho do vetor: 5150
+# Tamanho da memória alocada: 20600 bytes
+5150 90.790000
+# Tamanho do vetor: 5160
+# Tamanho da memória alocada: 20640 bytes
+5160 98.770000
+# Tamanho do vetor: 5170
+# Tamanho da memória alocada: 20680 bytes
+5170 88.170000
+# Tamanho do vetor: 5180
+# Tamanho da memória alocada: 20720 bytes
+5180 86.620000
+# Tamanho do vetor: 5190
+# Tamanho da memória alocada: 20760 bytes
+5190 89.800000
+# Tamanho do vetor: 5200
+# Tamanho da memória alocada: 20800 bytes
+5200 92.090000
+# Tamanho do vetor: 5210
+# Tamanho da memória alocada: 20840 bytes
+5210 88.220000
+# Tamanho do vetor: 5220
+# Tamanho da memória alocada: 20880 bytes
+5220 92.140000
+# Tamanho do vetor: 5230
+# Tamanho da memória alocada: 20920 bytes
+5230 107.780000
+# Tamanho do vetor: 5240
+# Tamanho da memória alocada: 20960 bytes
+5240 124.470000
+# Tamanho do vetor: 5250
+# Tamanho da memória alocada: 21000 bytes
+5250 131.950000
+# Tamanho do vetor: 5260
+# Tamanho da memória alocada: 21040 bytes
+5260 89.160000
+# Tamanho do vetor: 5270
+# Tamanho da memória alocada: 21080 bytes
+5270 90.790000
+# Tamanho do vetor: 5280
+# Tamanho da memória alocada: 21120 bytes
+5280 87.060000
+# Tamanho do vetor: 5290
+# Tamanho da memória alocada: 21160 bytes
+5290 91.350000
+# Tamanho do vetor: 5300
+# Tamanho da memória alocada: 21200 bytes
+5300 90.320000
+# Tamanho do vetor: 5310
+# Tamanho da memória alocada: 21240 bytes
+5310 92.980000
+# Tamanho do vetor: 5320
+# Tamanho da memória alocada: 21280 bytes
+5320 92.350000
+# Tamanho do vetor: 5330
+# Tamanho da memória alocada: 21320 bytes
+5330 94.090000
+# Tamanho do vetor: 5340
+# Tamanho da memória alocada: 21360 bytes
+5340 93.940000
+# Tamanho do vetor: 5350
+# Tamanho da memória alocada: 21400 bytes
+5350 98.530000
+# Tamanho do vetor: 5360
+# Tamanho da memória alocada: 21440 bytes
+5360 99.470000
+# Tamanho do vetor: 5370
+# Tamanho da memória alocada: 21480 bytes
+5370 96.320000
+# Tamanho do vetor: 5380
+# Tamanho da memória alocada: 21520 bytes
+5380 90.970000
+# Tamanho do vetor: 5390
+# Tamanho da memória alocada: 21560 bytes
+5390 91.100000
+# Tamanho do vetor: 5400
+# Tamanho da memória alocada: 21600 bytes
+5400 98.630000
+# Tamanho do vetor: 5410
+# Tamanho da memória alocada: 21640 bytes
+5410 101.180000
+# Tamanho do vetor: 5420
+# Tamanho da memória alocada: 21680 bytes
+5420 94.150000
+# Tamanho do vetor: 5430
+# Tamanho da memória alocada: 21720 bytes
+5430 94.880000
+# Tamanho do vetor: 5440
+# Tamanho da memória alocada: 21760 bytes
+5440 96.540000
+# Tamanho do vetor: 5450
+# Tamanho da memória alocada: 21800 bytes
+5450 93.890000
+# Tamanho do vetor: 5460
+# Tamanho da memória alocada: 21840 bytes
+5460 94.960000
+# Tamanho do vetor: 5470
+# Tamanho da memória alocada: 21880 bytes
+5470 96.410000
+# Tamanho do vetor: 5480
+# Tamanho da memória alocada: 21920 bytes
+5480 127.510000
+# Tamanho do vetor: 5490
+# Tamanho da memória alocada: 21960 bytes
+5490 103.970000
+# Tamanho do vetor: 5500
+# Tamanho da memória alocada: 22000 bytes
+5500 92.080000
+# Tamanho do vetor: 5510
+# Tamanho da memória alocada: 22040 bytes
+5510 97.860000
+# Tamanho do vetor: 5520
+# Tamanho da memória alocada: 22080 bytes
+5520 155.120000
+# Tamanho do vetor: 5530
+# Tamanho da memória alocada: 22120 bytes
+5530 123.400000
+# Tamanho do vetor: 5540
+# Tamanho da memória alocada: 22160 bytes
+5540 92.340000
+# Tamanho do vetor: 5550
+# Tamanho da memória alocada: 22200 bytes
+5550 97.480000
+# Tamanho do vetor: 5560
+# Tamanho da memória alocada: 22240 bytes
+5560 93.400000
+# Tamanho do vetor: 5570
+# Tamanho da memória alocada: 22280 bytes
+5570 100.470000
+# Tamanho do vetor: 5580
+# Tamanho da memória alocada: 22320 bytes
+5580 111.920000
+# Tamanho do vetor: 5590
+# Tamanho da memória alocada: 22360 bytes
+5590 102.690000
+# Tamanho do vetor: 5600
+# Tamanho da memória alocada: 22400 bytes
+5600 100.420000
+# Tamanho do vetor: 5610
+# Tamanho da memória alocada: 22440 bytes
+5610 99.140000
+# Tamanho do vetor: 5620
+# Tamanho da memória alocada: 22480 bytes
+5620 101.400000
+# Tamanho do vetor: 5630
+# Tamanho da memória alocada: 22520 bytes
+5630 116.700000
+# Tamanho do vetor: 5640
+# Tamanho da memória alocada: 22560 bytes
+5640 93.900000
+# Tamanho do vetor: 5650
+# Tamanho da memória alocada: 22600 bytes
+5650 95.370000
+# Tamanho do vetor: 5660
+# Tamanho da memória alocada: 22640 bytes
+5660 95.750000
+# Tamanho do vetor: 5670
+# Tamanho da memória alocada: 22680 bytes
+5670 97.560000
+# Tamanho do vetor: 5680
+# Tamanho da memória alocada: 22720 bytes
+5680 125.620000
+# Tamanho do vetor: 5690
+# Tamanho da memória alocada: 22760 bytes
+5690 97.270000
+# Tamanho do vetor: 5700
+# Tamanho da memória alocada: 22800 bytes
+5700 156.230000
+# Tamanho do vetor: 5710
+# Tamanho da memória alocada: 22840 bytes
+5710 104.680000
+# Tamanho do vetor: 5720
+# Tamanho da memória alocada: 22880 bytes
+5720 102.800000
+# Tamanho do vetor: 5730
+# Tamanho da memória alocada: 22920 bytes
+5730 123.680000
+# Tamanho do vetor: 5740
+# Tamanho da memória alocada: 22960 bytes
+5740 98.800000
+# Tamanho do vetor: 5750
+# Tamanho da memória alocada: 23000 bytes
+5750 97.060000
+# Tamanho do vetor: 5760
+# Tamanho da memória alocada: 23040 bytes
+5760 102.320000
+# Tamanho do vetor: 5770
+# Tamanho da memória alocada: 23080 bytes
+5770 95.650000
+# Tamanho do vetor: 5780
+# Tamanho da memória alocada: 23120 bytes
+5780 102.970000
+# Tamanho do vetor: 5790
+# Tamanho da memória alocada: 23160 bytes
+5790 99.250000
+# Tamanho do vetor: 5800
+# Tamanho da memória alocada: 23200 bytes
+5800 102.820000
+# Tamanho do vetor: 5810
+# Tamanho da memória alocada: 23240 bytes
+5810 104.190000
+# Tamanho do vetor: 5820
+# Tamanho da memória alocada: 23280 bytes
+5820 94.340000
+# Tamanho do vetor: 5830
+# Tamanho da memória alocada: 23320 bytes
+5830 98.110000
+# Tamanho do vetor: 5840
+# Tamanho da memória alocada: 23360 bytes
+5840 98.840000
+# Tamanho do vetor: 5850
+# Tamanho da memória alocada: 23400 bytes
+5850 96.980000
+# Tamanho do vetor: 5860
+# Tamanho da memória alocada: 23440 bytes
+5860 98.860000
+# Tamanho do vetor: 5870
+# Tamanho da memória alocada: 23480 bytes
+5870 106.700000
+# Tamanho do vetor: 5880
+# Tamanho da memória alocada: 23520 bytes
+5880 104.730000
+# Tamanho do vetor: 5890
+# Tamanho da memória alocada: 23560 bytes
+5890 185.360000
+# Tamanho do vetor: 5900
+# Tamanho da memória alocada: 23600 bytes
+5900 130.130000
+# Tamanho do vetor: 5910
+# Tamanho da memória alocada: 23640 bytes
+5910 98.570000
+# Tamanho do vetor: 5920
+# Tamanho da memória alocada: 23680 bytes
+5920 134.650000
+# Tamanho do vetor: 5930
+# Tamanho da memória alocada: 23720 bytes
+5930 144.550000
+# Tamanho do vetor: 5940
+# Tamanho da memória alocada: 23760 bytes
+5940 100.130000
+# Tamanho do vetor: 5950
+# Tamanho da memória alocada: 23800 bytes
+5950 104.700000
+# Tamanho do vetor: 5960
+# Tamanho da memória alocada: 23840 bytes
+5960 168.260000
+# Tamanho do vetor: 5970
+# Tamanho da memória alocada: 23880 bytes
+5970 194.340000
+# Tamanho do vetor: 5980
+# Tamanho da memória alocada: 23920 bytes
+5980 130.870000
+# Tamanho do vetor: 5990
+# Tamanho da memória alocada: 23960 bytes
+5990 100.550000
+# Tamanho do vetor: 6000
+# Tamanho da memória alocada: 24000 bytes
+6000 102.270000
+# Tamanho do vetor: 6010
+# Tamanho da memória alocada: 24040 bytes
+6010 102.500000
+# Tamanho do vetor: 6020
+# Tamanho da memória alocada: 24080 bytes
+6020 105.770000
+# Tamanho do vetor: 6030
+# Tamanho da memória alocada: 24120 bytes
+6030 108.690000
+# Tamanho do vetor: 6040
+# Tamanho da memória alocada: 24160 bytes
+6040 114.880000
+# Tamanho do vetor: 6050
+# Tamanho da memória alocada: 24200 bytes
+6050 116.620000
+# Tamanho do vetor: 6060
+# Tamanho da memória alocada: 24240 bytes
+6060 156.890000
+# Tamanho do vetor: 6070
+# Tamanho da memória alocada: 24280 bytes
+6070 167.040000
+# Tamanho do vetor: 6080
+# Tamanho da memória alocada: 24320 bytes
+6080 120.660000
+# Tamanho do vetor: 6090
+# Tamanho da memória alocada: 24360 bytes
+6090 106.720000
+# Tamanho do vetor: 6100
+# Tamanho da memória alocada: 24400 bytes
+6100 102.900000
+# Tamanho do vetor: 6110
+# Tamanho da memória alocada: 24440 bytes
+6110 185.210000
+# Tamanho do vetor: 6120
+# Tamanho da memória alocada: 24480 bytes
+6120 107.790000
+# Tamanho do vetor: 6130
+# Tamanho da memória alocada: 24520 bytes
+6130 111.710000
+# Tamanho do vetor: 6140
+# Tamanho da memória alocada: 24560 bytes
+6140 101.060000
+# Tamanho do vetor: 6150
+# Tamanho da memória alocada: 24600 bytes
+6150 102.860000
+# Tamanho do vetor: 6160
+# Tamanho da memória alocada: 24640 bytes
+6160 110.920000
+# Tamanho do vetor: 6170
+# Tamanho da memória alocada: 24680 bytes
+6170 110.250000
+# Tamanho do vetor: 6180
+# Tamanho da memória alocada: 24720 bytes
+6180 105.230000
+# Tamanho do vetor: 6190
+# Tamanho da memória alocada: 24760 bytes
+6190 113.150000
+# Tamanho do vetor: 6200
+# Tamanho da memória alocada: 24800 bytes
+6200 99.060000
+# Tamanho do vetor: 6210
+# Tamanho da memória alocada: 24840 bytes
+6210 112.590000
+# Tamanho do vetor: 6220
+# Tamanho da memória alocada: 24880 bytes
+6220 107.420000
+# Tamanho do vetor: 6230
+# Tamanho da memória alocada: 24920 bytes
+6230 105.410000
+# Tamanho do vetor: 6240
+# Tamanho da memória alocada: 24960 bytes
+6240 106.850000
+# Tamanho do vetor: 6250
+# Tamanho da memória alocada: 25000 bytes
+6250 105.940000
+# Tamanho do vetor: 6260
+# Tamanho da memória alocada: 25040 bytes
+6260 108.740000
+# Tamanho do vetor: 6270
+# Tamanho da memória alocada: 25080 bytes
+6270 105.100000
+# Tamanho do vetor: 6280
+# Tamanho da memória alocada: 25120 bytes
+6280 119.780000
+# Tamanho do vetor: 6290
+# Tamanho da memória alocada: 25160 bytes
+6290 105.420000
+# Tamanho do vetor: 6300
+# Tamanho da memória alocada: 25200 bytes
+6300 106.800000
+# Tamanho do vetor: 6310
+# Tamanho da memória alocada: 25240 bytes
+6310 103.550000
+# Tamanho do vetor: 6320
+# Tamanho da memória alocada: 25280 bytes
+6320 121.860000
+# Tamanho do vetor: 6330
+# Tamanho da memória alocada: 25320 bytes
+6330 126.420000
+# Tamanho do vetor: 6340
+# Tamanho da memória alocada: 25360 bytes
+6340 128.330000
+# Tamanho do vetor: 6350
+# Tamanho da memória alocada: 25400 bytes
+6350 131.400000
+# Tamanho do vetor: 6360
+# Tamanho da memória alocada: 25440 bytes
+6360 109.480000
+# Tamanho do vetor: 6370
+# Tamanho da memória alocada: 25480 bytes
+6370 181.360000
+# Tamanho do vetor: 6380
+# Tamanho da memória alocada: 25520 bytes
+6380 122.880000
+# Tamanho do vetor: 6390
+# Tamanho da memória alocada: 25560 bytes
+6390 111.340000
+# Tamanho do vetor: 6400
+# Tamanho da memória alocada: 25600 bytes
+6400 109.490000
+# Tamanho do vetor: 6410
+# Tamanho da memória alocada: 25640 bytes
+6410 113.480000
+# Tamanho do vetor: 6420
+# Tamanho da memória alocada: 25680 bytes
+6420 107.830000
+# Tamanho do vetor: 6430
+# Tamanho da memória alocada: 25720 bytes
+6430 119.990000
+# Tamanho do vetor: 6440
+# Tamanho da memória alocada: 25760 bytes
+6440 115.740000
+# Tamanho do vetor: 6450
+# Tamanho da memória alocada: 25800 bytes
+6450 109.540000
+# Tamanho do vetor: 6460
+# Tamanho da memória alocada: 25840 bytes
+6460 111.970000
+# Tamanho do vetor: 6470
+# Tamanho da memória alocada: 25880 bytes
+6470 116.250000
+# Tamanho do vetor: 6480
+# Tamanho da memória alocada: 25920 bytes
+6480 121.210000
+# Tamanho do vetor: 6490
+# Tamanho da memória alocada: 25960 bytes
+6490 136.750000
+# Tamanho do vetor: 6500
+# Tamanho da memória alocada: 26000 bytes
+6500 119.970000
+# Tamanho do vetor: 6510
+# Tamanho da memória alocada: 26040 bytes
+6510 112.450000
+# Tamanho do vetor: 6520
+# Tamanho da memória alocada: 26080 bytes
+6520 118.560000
+# Tamanho do vetor: 6530
+# Tamanho da memória alocada: 26120 bytes
+6530 111.570000
+# Tamanho do vetor: 6540
+# Tamanho da memória alocada: 26160 bytes
+6540 112.310000
+# Tamanho do vetor: 6550
+# Tamanho da memória alocada: 26200 bytes
+6550 114.610000
+# Tamanho do vetor: 6560
+# Tamanho da memória alocada: 26240 bytes
+6560 144.430000
+# Tamanho do vetor: 6570
+# Tamanho da memória alocada: 26280 bytes
+6570 112.450000
+# Tamanho do vetor: 6580
+# Tamanho da memória alocada: 26320 bytes
+6580 116.380000
+# Tamanho do vetor: 6590
+# Tamanho da memória alocada: 26360 bytes
+6590 120.080000
+# Tamanho do vetor: 6600
+# Tamanho da memória alocada: 26400 bytes
+6600 115.370000
+# Tamanho do vetor: 6610
+# Tamanho da memória alocada: 26440 bytes
+6610 113.320000
+# Tamanho do vetor: 6620
+# Tamanho da memória alocada: 26480 bytes
+6620 113.980000
+# Tamanho do vetor: 6630
+# Tamanho da memória alocada: 26520 bytes
+6630 116.110000
+# Tamanho do vetor: 6640
+# Tamanho da memória alocada: 26560 bytes
+6640 114.440000
+# Tamanho do vetor: 6650
+# Tamanho da memória alocada: 26600 bytes
+6650 182.840000
+# Tamanho do vetor: 6660
+# Tamanho da memória alocada: 26640 bytes
+6660 120.710000
+# Tamanho do vetor: 6670
+# Tamanho da memória alocada: 26680 bytes
+6670 131.580000
+# Tamanho do vetor: 6680
+# Tamanho da memória alocada: 26720 bytes
+6680 133.450000
+# Tamanho do vetor: 6690
+# Tamanho da memória alocada: 26760 bytes
+6690 147.900000
+# Tamanho do vetor: 6700
+# Tamanho da memória alocada: 26800 bytes
+6700 143.930000
+# Tamanho do vetor: 6710
+# Tamanho da memória alocada: 26840 bytes
+6710 172.450000
+# Tamanho do vetor: 6720
+# Tamanho da memória alocada: 26880 bytes
+6720 221.810000
+# Tamanho do vetor: 6730
+# Tamanho da memória alocada: 26920 bytes
+6730 164.340000
+# Tamanho do vetor: 6740
+# Tamanho da memória alocada: 26960 bytes
+6740 140.370000
+# Tamanho do vetor: 6750
+# Tamanho da memória alocada: 27000 bytes
+6750 178.530000
+# Tamanho do vetor: 6760
+# Tamanho da memória alocada: 27040 bytes
+6760 179.060000
+# Tamanho do vetor: 6770
+# Tamanho da memória alocada: 27080 bytes
+6770 184.170000
+# Tamanho do vetor: 6780
+# Tamanho da memória alocada: 27120 bytes
+6780 156.650000
+# Tamanho do vetor: 6790
+# Tamanho da memória alocada: 27160 bytes
+6790 204.330000
+# Tamanho do vetor: 6800
+# Tamanho da memória alocada: 27200 bytes
+6800 178.070000
+# Tamanho do vetor: 6810
+# Tamanho da memória alocada: 27240 bytes
+6810 176.520000
+# Tamanho do vetor: 6820
+# Tamanho da memória alocada: 27280 bytes
+6820 159.440000
+# Tamanho do vetor: 6830
+# Tamanho da memória alocada: 27320 bytes
+6830 171.160000
+# Tamanho do vetor: 6840
+# Tamanho da memória alocada: 27360 bytes
+6840 133.040000
+# Tamanho do vetor: 6850
+# Tamanho da memória alocada: 27400 bytes
+6850 125.430000
+# Tamanho do vetor: 6860
+# Tamanho da memória alocada: 27440 bytes
+6860 118.760000
+# Tamanho do vetor: 6870
+# Tamanho da memória alocada: 27480 bytes
+6870 124.310000
+# Tamanho do vetor: 6880
+# Tamanho da memória alocada: 27520 bytes
+6880 135.140000
+# Tamanho do vetor: 6890
+# Tamanho da memória alocada: 27560 bytes
+6890 135.690000
+# Tamanho do vetor: 6900
+# Tamanho da memória alocada: 27600 bytes
+6900 132.240000
+# Tamanho do vetor: 6910
+# Tamanho da memória alocada: 27640 bytes
+6910 122.910000
+# Tamanho do vetor: 6920
+# Tamanho da memória alocada: 27680 bytes
+6920 123.370000
+# Tamanho do vetor: 6930
+# Tamanho da memória alocada: 27720 bytes
+6930 125.460000
+# Tamanho do vetor: 6940
+# Tamanho da memória alocada: 27760 bytes
+6940 126.590000
+# Tamanho do vetor: 6950
+# Tamanho da memória alocada: 27800 bytes
+6950 132.220000
+# Tamanho do vetor: 6960
+# Tamanho da memória alocada: 27840 bytes
+6960 119.750000
+# Tamanho do vetor: 6970
+# Tamanho da memória alocada: 27880 bytes
+6970 150.900000
+# Tamanho do vetor: 6980
+# Tamanho da memória alocada: 27920 bytes
+6980 128.140000
+# Tamanho do vetor: 6990
+# Tamanho da memória alocada: 27960 bytes
+6990 129.880000
+# Tamanho do vetor: 7000
+# Tamanho da memória alocada: 28000 bytes
+7000 132.880000
+# Tamanho do vetor: 7010
+# Tamanho da memória alocada: 28040 bytes
+7010 121.930000
+# Tamanho do vetor: 7020
+# Tamanho da memória alocada: 28080 bytes
+7020 131.280000
+# Tamanho do vetor: 7030
+# Tamanho da memória alocada: 28120 bytes
+7030 122.360000
+# Tamanho do vetor: 7040
+# Tamanho da memória alocada: 28160 bytes
+7040 124.790000
+# Tamanho do vetor: 7050
+# Tamanho da memória alocada: 28200 bytes
+7050 124.530000
+# Tamanho do vetor: 7060
+# Tamanho da memória alocada: 28240 bytes
+7060 124.760000
+# Tamanho do vetor: 7070
+# Tamanho da memória alocada: 28280 bytes
+7070 158.800000
+# Tamanho do vetor: 7080
+# Tamanho da memória alocada: 28320 bytes
+7080 174.550000
+# Tamanho do vetor: 7090
+# Tamanho da memória alocada: 28360 bytes
+7090 148.800000
+# Tamanho do vetor: 7100
+# Tamanho da memória alocada: 28400 bytes
+7100 122.520000
+# Tamanho do vetor: 7110
+# Tamanho da memória alocada: 28440 bytes
+7110 134.070000
+# Tamanho do vetor: 7120
+# Tamanho da memória alocada: 28480 bytes
+7120 121.290000
+# Tamanho do vetor: 7130
+# Tamanho da memória alocada: 28520 bytes
+7130 123.190000
+# Tamanho do vetor: 7140
+# Tamanho da memória alocada: 28560 bytes
+7140 133.300000
+# Tamanho do vetor: 7150
+# Tamanho da memória alocada: 28600 bytes
+7150 133.800000
+# Tamanho do vetor: 7160
+# Tamanho da memória alocada: 28640 bytes
+7160 129.590000
+# Tamanho do vetor: 7170
+# Tamanho da memória alocada: 28680 bytes
+7170 122.680000
+# Tamanho do vetor: 7180
+# Tamanho da memória alocada: 28720 bytes
+7180 126.890000
+# Tamanho do vetor: 7190
+# Tamanho da memória alocada: 28760 bytes
+7190 120.570000
+# Tamanho do vetor: 7200
+# Tamanho da memória alocada: 28800 bytes
+7200 138.410000
+# Tamanho do vetor: 7210
+# Tamanho da memória alocada: 28840 bytes
+7210 131.900000
+# Tamanho do vetor: 7220
+# Tamanho da memória alocada: 28880 bytes
+7220 167.560000
+# Tamanho do vetor: 7230
+# Tamanho da memória alocada: 28920 bytes
+7230 121.520000
+# Tamanho do vetor: 7240
+# Tamanho da memória alocada: 28960 bytes
+7240 178.100000
+# Tamanho do vetor: 7250
+# Tamanho da memória alocada: 29000 bytes
+7250 197.980000
+# Tamanho do vetor: 7260
+# Tamanho da memória alocada: 29040 bytes
+7260 130.680000
+# Tamanho do vetor: 7270
+# Tamanho da memória alocada: 29080 bytes
+7270 133.880000
+# Tamanho do vetor: 7280
+# Tamanho da memória alocada: 29120 bytes
+7280 127.640000
+# Tamanho do vetor: 7290
+# Tamanho da memória alocada: 29160 bytes
+7290 127.530000
+# Tamanho do vetor: 7300
+# Tamanho da memória alocada: 29200 bytes
+7300 132.850000
+# Tamanho do vetor: 7310
+# Tamanho da memória alocada: 29240 bytes
+7310 129.340000
+# Tamanho do vetor: 7320
+# Tamanho da memória alocada: 29280 bytes
+7320 132.710000
+# Tamanho do vetor: 7330
+# Tamanho da memória alocada: 29320 bytes
+7330 129.470000
+# Tamanho do vetor: 7340
+# Tamanho da memória alocada: 29360 bytes
+7340 129.810000
+# Tamanho do vetor: 7350
+# Tamanho da memória alocada: 29400 bytes
+7350 126.960000
+# Tamanho do vetor: 7360
+# Tamanho da memória alocada: 29440 bytes
+7360 123.850000
+# Tamanho do vetor: 7370
+# Tamanho da memória alocada: 29480 bytes
+7370 125.640000
+# Tamanho do vetor: 7380
+# Tamanho da memória alocada: 29520 bytes
+7380 137.220000
+# Tamanho do vetor: 7390
+# Tamanho da memória alocada: 29560 bytes
+7390 125.100000
+# Tamanho do vetor: 7400
+# Tamanho da memória alocada: 29600 bytes
+7400 231.220000
+# Tamanho do vetor: 7410
+# Tamanho da memória alocada: 29640 bytes
+7410 143.340000
+# Tamanho do vetor: 7420
+# Tamanho da memória alocada: 29680 bytes
+7420 129.430000
+# Tamanho do vetor: 7430
+# Tamanho da memória alocada: 29720 bytes
+7430 181.710000
+# Tamanho do vetor: 7440
+# Tamanho da memória alocada: 29760 bytes
+7440 170.760000
+# Tamanho do vetor: 7450
+# Tamanho da memória alocada: 29800 bytes
+7450 131.690000
+# Tamanho do vetor: 7460
+# Tamanho da memória alocada: 29840 bytes
+7460 151.010000
+# Tamanho do vetor: 7470
+# Tamanho da memória alocada: 29880 bytes
+7470 160.710000
+# Tamanho do vetor: 7480
+# Tamanho da memória alocada: 29920 bytes
+7480 157.950000
+# Tamanho do vetor: 7490
+# Tamanho da memória alocada: 29960 bytes
+7490 130.240000
+# Tamanho do vetor: 7500
+# Tamanho da memória alocada: 30000 bytes
+7500 136.760000
+# Tamanho do vetor: 7510
+# Tamanho da memória alocada: 30040 bytes
+7510 154.650000
+# Tamanho do vetor: 7520
+# Tamanho da memória alocada: 30080 bytes
+7520 128.780000
+# Tamanho do vetor: 7530
+# Tamanho da memória alocada: 30120 bytes
+7530 133.150000
+# Tamanho do vetor: 7540
+# Tamanho da memória alocada: 30160 bytes
+7540 136.560000
+# Tamanho do vetor: 7550
+# Tamanho da memória alocada: 30200 bytes
+7550 126.450000
+# Tamanho do vetor: 7560
+# Tamanho da memória alocada: 30240 bytes
+7560 144.430000
+# Tamanho do vetor: 7570
+# Tamanho da memória alocada: 30280 bytes
+7570 126.490000
+# Tamanho do vetor: 7580
+# Tamanho da memória alocada: 30320 bytes
+7580 132.680000
+# Tamanho do vetor: 7590
+# Tamanho da memória alocada: 30360 bytes
+7590 145.100000
+# Tamanho do vetor: 7600
+# Tamanho da memória alocada: 30400 bytes
+7600 223.250000
+# Tamanho do vetor: 7610
+# Tamanho da memória alocada: 30440 bytes
+7610 278.990000
+# Tamanho do vetor: 7620
+# Tamanho da memória alocada: 30480 bytes
+7620 276.320000
+# Tamanho do vetor: 7630
+# Tamanho da memória alocada: 30520 bytes
+7630 260.300000
+# Tamanho do vetor: 7640
+# Tamanho da memória alocada: 30560 bytes
+7640 181.830000
+# Tamanho do vetor: 7650
+# Tamanho da memória alocada: 30600 bytes
+7650 161.320000
+# Tamanho do vetor: 7660
+# Tamanho da memória alocada: 30640 bytes
+7660 129.660000
+# Tamanho do vetor: 7670
+# Tamanho da memória alocada: 30680 bytes
+7670 132.800000
+# Tamanho do vetor: 7680
+# Tamanho da memória alocada: 30720 bytes
+7680 262.280000
+# Tamanho do vetor: 7690
+# Tamanho da memória alocada: 30760 bytes
+7690 210.000000
+# Tamanho do vetor: 7700
+# Tamanho da memória alocada: 30800 bytes
+7700 141.690000
+# Tamanho do vetor: 7710
+# Tamanho da memória alocada: 30840 bytes
+7710 231.490000
+# Tamanho do vetor: 7720
+# Tamanho da memória alocada: 30880 bytes
+7720 136.930000
+# Tamanho do vetor: 7730
+# Tamanho da memória alocada: 30920 bytes
+7730 140.150000
+# Tamanho do vetor: 7740
+# Tamanho da memória alocada: 30960 bytes
+7740 138.880000
+# Tamanho do vetor: 7750
+# Tamanho da memória alocada: 31000 bytes
+7750 139.090000
+# Tamanho do vetor: 7760
+# Tamanho da memória alocada: 31040 bytes
+7760 142.780000
+# Tamanho do vetor: 7770
+# Tamanho da memória alocada: 31080 bytes
+7770 136.030000
+# Tamanho do vetor: 7780
+# Tamanho da memória alocada: 31120 bytes
+7780 134.210000
+# Tamanho do vetor: 7790
+# Tamanho da memória alocada: 31160 bytes
+7790 128.790000
+# Tamanho do vetor: 7800
+# Tamanho da memória alocada: 31200 bytes
+7800 138.850000
+# Tamanho do vetor: 7810
+# Tamanho da memória alocada: 31240 bytes
+7810 152.000000
+# Tamanho do vetor: 7820
+# Tamanho da memória alocada: 31280 bytes
+7820 143.000000
+# Tamanho do vetor: 7830
+# Tamanho da memória alocada: 31320 bytes
+7830 144.890000
+# Tamanho do vetor: 7840
+# Tamanho da memória alocada: 31360 bytes
+7840 165.040000
+# Tamanho do vetor: 7850
+# Tamanho da memória alocada: 31400 bytes
+7850 167.010000
+# Tamanho do vetor: 7860
+# Tamanho da memória alocada: 31440 bytes
+7860 158.270000
+# Tamanho do vetor: 7870
+# Tamanho da memória alocada: 31480 bytes
+7870 151.450000
+# Tamanho do vetor: 7880
+# Tamanho da memória alocada: 31520 bytes
+7880 148.420000
+# Tamanho do vetor: 7890
+# Tamanho da memória alocada: 31560 bytes
+7890 166.230000
+# Tamanho do vetor: 7900
+# Tamanho da memória alocada: 31600 bytes
+7900 155.280000
+# Tamanho do vetor: 7910
+# Tamanho da memória alocada: 31640 bytes
+7910 141.570000
+# Tamanho do vetor: 7920
+# Tamanho da memória alocada: 31680 bytes
+7920 196.970000
+# Tamanho do vetor: 7930
+# Tamanho da memória alocada: 31720 bytes
+7930 164.460000
+# Tamanho do vetor: 7940
+# Tamanho da memória alocada: 31760 bytes
+7940 189.200000
+# Tamanho do vetor: 7950
+# Tamanho da memória alocada: 31800 bytes
+7950 233.070000
+# Tamanho do vetor: 7960
+# Tamanho da memória alocada: 31840 bytes
+7960 166.680000
+# Tamanho do vetor: 7970
+# Tamanho da memória alocada: 31880 bytes
+7970 171.150000
+# Tamanho do vetor: 7980
+# Tamanho da memória alocada: 31920 bytes
+7980 196.950000
+# Tamanho do vetor: 7990
+# Tamanho da memória alocada: 31960 bytes
+7990 178.320000
+# Tamanho do vetor: 8000
+# Tamanho da memória alocada: 32000 bytes
+8000 162.940000
+# Tamanho do vetor: 8010
+# Tamanho da memória alocada: 32040 bytes
+8010 212.760000
+# Tamanho do vetor: 8020
+# Tamanho da memória alocada: 32080 bytes
+8020 174.350000
+# Tamanho do vetor: 8030
+# Tamanho da memória alocada: 32120 bytes
+8030 195.540000
+# Tamanho do vetor: 8040
+# Tamanho da memória alocada: 32160 bytes
+8040 202.990000
+# Tamanho do vetor: 8050
+# Tamanho da memória alocada: 32200 bytes
+8050 148.940000
+# Tamanho do vetor: 8060
+# Tamanho da memória alocada: 32240 bytes
+8060 139.850000
+# Tamanho do vetor: 8070
+# Tamanho da memória alocada: 32280 bytes
+8070 142.160000
+# Tamanho do vetor: 8080
+# Tamanho da memória alocada: 32320 bytes
+8080 148.610000
+# Tamanho do vetor: 8090
+# Tamanho da memória alocada: 32360 bytes
+8090 155.750000
+# Tamanho do vetor: 8100
+# Tamanho da memória alocada: 32400 bytes
+8100 161.450000
+# Tamanho do vetor: 8110
+# Tamanho da memória alocada: 32440 bytes
+8110 168.490000
+# Tamanho do vetor: 8120
+# Tamanho da memória alocada: 32480 bytes
+8120 161.490000
+# Tamanho do vetor: 8130
+# Tamanho da memória alocada: 32520 bytes
+8130 140.340000
+# Tamanho do vetor: 8140
+# Tamanho da memória alocada: 32560 bytes
+8140 166.310000
+# Tamanho do vetor: 8150
+# Tamanho da memória alocada: 32600 bytes
+8150 154.910000
+# Tamanho do vetor: 8160
+# Tamanho da memória alocada: 32640 bytes
+8160 174.850000
+# Tamanho do vetor: 8170
+# Tamanho da memória alocada: 32680 bytes
+8170 188.740000
+# Tamanho do vetor: 8180
+# Tamanho da memória alocada: 32720 bytes
+8180 145.790000
+# Tamanho do vetor: 8190
+# Tamanho da memória alocada: 32760 bytes
+8190 136.650000
+# Tamanho do vetor: 8200
+# Tamanho da memória alocada: 32800 bytes
+8200 152.490000
+# Tamanho do vetor: 8210
+# Tamanho da memória alocada: 32840 bytes
+8210 150.970000
+# Tamanho do vetor: 8220
+# Tamanho da memória alocada: 32880 bytes
+8220 152.650000
+# Tamanho do vetor: 8230
+# Tamanho da memória alocada: 32920 bytes
+8230 160.970000
+# Tamanho do vetor: 8240
+# Tamanho da memória alocada: 32960 bytes
+8240 162.710000
+# Tamanho do vetor: 8250
+# Tamanho da memória alocada: 33000 bytes
+8250 139.740000
+# Tamanho do vetor: 8260
+# Tamanho da memória alocada: 33040 bytes
+8260 140.900000
+# Tamanho do vetor: 8270
+# Tamanho da memória alocada: 33080 bytes
+8270 137.440000
+# Tamanho do vetor: 8280
+# Tamanho da memória alocada: 33120 bytes
+8280 140.910000
+# Tamanho do vetor: 8290
+# Tamanho da memória alocada: 33160 bytes
+8290 149.770000
+# Tamanho do vetor: 8300
+# Tamanho da memória alocada: 33200 bytes
+8300 151.650000
+# Tamanho do vetor: 8310
+# Tamanho da memória alocada: 33240 bytes
+8310 150.460000
+# Tamanho do vetor: 8320
+# Tamanho da memória alocada: 33280 bytes
+8320 140.410000
+# Tamanho do vetor: 8330
+# Tamanho da memória alocada: 33320 bytes
+8330 168.390000
+# Tamanho do vetor: 8340
+# Tamanho da memória alocada: 33360 bytes
+8340 174.990000
+# Tamanho do vetor: 8350
+# Tamanho da memória alocada: 33400 bytes
+8350 151.400000
+# Tamanho do vetor: 8360
+# Tamanho da memória alocada: 33440 bytes
+8360 151.000000
+# Tamanho do vetor: 8370
+# Tamanho da memória alocada: 33480 bytes
+8370 156.500000
+# Tamanho do vetor: 8380
+# Tamanho da memória alocada: 33520 bytes
+8380 152.910000
+# Tamanho do vetor: 8390
+# Tamanho da memória alocada: 33560 bytes
+8390 140.830000
+# Tamanho do vetor: 8400
+# Tamanho da memória alocada: 33600 bytes
+8400 145.160000
+# Tamanho do vetor: 8410
+# Tamanho da memória alocada: 33640 bytes
+8410 156.620000
+# Tamanho do vetor: 8420
+# Tamanho da memória alocada: 33680 bytes
+8420 186.280000
+# Tamanho do vetor: 8430
+# Tamanho da memória alocada: 33720 bytes
+8430 148.560000
+# Tamanho do vetor: 8440
+# Tamanho da memória alocada: 33760 bytes
+8440 151.670000
+# Tamanho do vetor: 8450
+# Tamanho da memória alocada: 33800 bytes
+8450 151.990000
+# Tamanho do vetor: 8460
+# Tamanho da memória alocada: 33840 bytes
+8460 179.890000
+# Tamanho do vetor: 8470
+# Tamanho da memória alocada: 33880 bytes
+8470 152.430000
+# Tamanho do vetor: 8480
+# Tamanho da memória alocada: 33920 bytes
+8480 144.600000
+# Tamanho do vetor: 8490
+# Tamanho da memória alocada: 33960 bytes
+8490 175.890000
+# Tamanho do vetor: 8500
+# Tamanho da memória alocada: 34000 bytes
+8500 143.180000
+# Tamanho do vetor: 8510
+# Tamanho da memória alocada: 34040 bytes
+8510 166.630000
+# Tamanho do vetor: 8520
+# Tamanho da memória alocada: 34080 bytes
+8520 152.310000
+# Tamanho do vetor: 8530
+# Tamanho da memória alocada: 34120 bytes
+8530 147.570000
+# Tamanho do vetor: 8540
+# Tamanho da memória alocada: 34160 bytes
+8540 166.450000
+# Tamanho do vetor: 8550
+# Tamanho da memória alocada: 34200 bytes
+8550 153.190000
+# Tamanho do vetor: 8560
+# Tamanho da memória alocada: 34240 bytes
+8560 150.160000
+# Tamanho do vetor: 8570
+# Tamanho da memória alocada: 34280 bytes
+8570 153.020000
+# Tamanho do vetor: 8580
+# Tamanho da memória alocada: 34320 bytes
+8580 154.390000
+# Tamanho do vetor: 8590
+# Tamanho da memória alocada: 34360 bytes
+8590 159.370000
+# Tamanho do vetor: 8600
+# Tamanho da memória alocada: 34400 bytes
+8600 168.780000
+# Tamanho do vetor: 8610
+# Tamanho da memória alocada: 34440 bytes
+8610 148.770000
+# Tamanho do vetor: 8620
+# Tamanho da memória alocada: 34480 bytes
+8620 164.360000
+# Tamanho do vetor: 8630
+# Tamanho da memória alocada: 34520 bytes
+8630 230.860000
+# Tamanho do vetor: 8640
+# Tamanho da memória alocada: 34560 bytes
+8640 149.450000
+# Tamanho do vetor: 8650
+# Tamanho da memória alocada: 34600 bytes
+8650 160.720000
+# Tamanho do vetor: 8660
+# Tamanho da memória alocada: 34640 bytes
+8660 157.090000
+# Tamanho do vetor: 8670
+# Tamanho da memória alocada: 34680 bytes
+8670 148.840000
+# Tamanho do vetor: 8680
+# Tamanho da memória alocada: 34720 bytes
+8680 151.940000
+# Tamanho do vetor: 8690
+# Tamanho da memória alocada: 34760 bytes
+8690 165.180000
+# Tamanho do vetor: 8700
+# Tamanho da memória alocada: 34800 bytes
+8700 174.580000
+# Tamanho do vetor: 8710
+# Tamanho da memória alocada: 34840 bytes
+8710 148.870000
+# Tamanho do vetor: 8720
+# Tamanho da memória alocada: 34880 bytes
+8720 156.470000
+# Tamanho do vetor: 8730
+# Tamanho da memória alocada: 34920 bytes
+8730 157.420000
+# Tamanho do vetor: 8740
+# Tamanho da memória alocada: 34960 bytes
+8740 196.180000
+# Tamanho do vetor: 8750
+# Tamanho da memória alocada: 35000 bytes
+8750 163.990000
+# Tamanho do vetor: 8760
+# Tamanho da memória alocada: 35040 bytes
+8760 173.130000
+# Tamanho do vetor: 8770
+# Tamanho da memória alocada: 35080 bytes
+8770 179.490000
+# Tamanho do vetor: 8780
+# Tamanho da memória alocada: 35120 bytes
+8780 157.740000
+# Tamanho do vetor: 8790
+# Tamanho da memória alocada: 35160 bytes
+8790 156.080000
+# Tamanho do vetor: 8800
+# Tamanho da memória alocada: 35200 bytes
+8800 152.580000
+# Tamanho do vetor: 8810
+# Tamanho da memória alocada: 35240 bytes
+8810 158.070000
+# Tamanho do vetor: 8820
+# Tamanho da memória alocada: 35280 bytes
+8820 208.970000
+# Tamanho do vetor: 8830
+# Tamanho da memória alocada: 35320 bytes
+8830 165.720000
+# Tamanho do vetor: 8840
+# Tamanho da memória alocada: 35360 bytes
+8840 156.250000
+# Tamanho do vetor: 8850
+# Tamanho da memória alocada: 35400 bytes
+8850 161.540000
+# Tamanho do vetor: 8860
+# Tamanho da memória alocada: 35440 bytes
+8860 162.380000
+# Tamanho do vetor: 8870
+# Tamanho da memória alocada: 35480 bytes
+8870 152.910000
+# Tamanho do vetor: 8880
+# Tamanho da memória alocada: 35520 bytes
+8880 151.100000
+# Tamanho do vetor: 8890
+# Tamanho da memória alocada: 35560 bytes
+8890 163.960000
+# Tamanho do vetor: 8900
+# Tamanho da memória alocada: 35600 bytes
+8900 165.380000
+# Tamanho do vetor: 8910
+# Tamanho da memória alocada: 35640 bytes
+8910 160.530000
+# Tamanho do vetor: 8920
+# Tamanho da memória alocada: 35680 bytes
+8920 237.640000
+# Tamanho do vetor: 8930
+# Tamanho da memória alocada: 35720 bytes
+8930 183.670000
+# Tamanho do vetor: 8940
+# Tamanho da memória alocada: 35760 bytes
+8940 207.550000
+# Tamanho do vetor: 8950
+# Tamanho da memória alocada: 35800 bytes
+8950 160.140000
+# Tamanho do vetor: 8960
+# Tamanho da memória alocada: 35840 bytes
+8960 163.090000
+# Tamanho do vetor: 8970
+# Tamanho da memória alocada: 35880 bytes
+8970 155.060000
+# Tamanho do vetor: 8980
+# Tamanho da memória alocada: 35920 bytes
+8980 169.490000
+# Tamanho do vetor: 8990
+# Tamanho da memória alocada: 35960 bytes
+8990 155.160000
+# Tamanho do vetor: 9000
+# Tamanho da memória alocada: 36000 bytes
+9000 174.330000
+# Tamanho do vetor: 9010
+# Tamanho da memória alocada: 36040 bytes
+9010 158.590000
+# Tamanho do vetor: 9020
+# Tamanho da memória alocada: 36080 bytes
+9020 191.300000
+# Tamanho do vetor: 9030
+# Tamanho da memória alocada: 36120 bytes
+9030 155.270000
+# Tamanho do vetor: 9040
+# Tamanho da memória alocada: 36160 bytes
+9040 171.530000
+# Tamanho do vetor: 9050
+# Tamanho da memória alocada: 36200 bytes
+9050 157.250000
+# Tamanho do vetor: 9060
+# Tamanho da memória alocada: 36240 bytes
+9060 161.740000
+# Tamanho do vetor: 9070
+# Tamanho da memória alocada: 36280 bytes
+9070 163.230000
+# Tamanho do vetor: 9080
+# Tamanho da memória alocada: 36320 bytes
+9080 156.400000
+# Tamanho do vetor: 9090
+# Tamanho da memória alocada: 36360 bytes
+9090 169.280000
+# Tamanho do vetor: 9100
+# Tamanho da memória alocada: 36400 bytes
+9100 157.190000
+# Tamanho do vetor: 9110
+# Tamanho da memória alocada: 36440 bytes
+9110 155.170000
+# Tamanho do vetor: 9120
+# Tamanho da memória alocada: 36480 bytes
+9120 156.970000
+# Tamanho do vetor: 9130
+# Tamanho da memória alocada: 36520 bytes
+9130 160.950000
+# Tamanho do vetor: 9140
+# Tamanho da memória alocada: 36560 bytes
+9140 163.350000
+# Tamanho do vetor: 9150
+# Tamanho da memória alocada: 36600 bytes
+9150 153.350000
+# Tamanho do vetor: 9160
+# Tamanho da memória alocada: 36640 bytes
+9160 165.970000
+# Tamanho do vetor: 9170
+# Tamanho da memória alocada: 36680 bytes
+9170 162.160000
+# Tamanho do vetor: 9180
+# Tamanho da memória alocada: 36720 bytes
+9180 159.450000
+# Tamanho do vetor: 9190
+# Tamanho da memória alocada: 36760 bytes
+9190 172.270000
+# Tamanho do vetor: 9200
+# Tamanho da memória alocada: 36800 bytes
+9200 162.920000
+# Tamanho do vetor: 9210
+# Tamanho da memória alocada: 36840 bytes
+9210 230.580000
+# Tamanho do vetor: 9220
+# Tamanho da memória alocada: 36880 bytes
+9220 157.150000
+# Tamanho do vetor: 9230
+# Tamanho da memória alocada: 36920 bytes
+9230 160.080000
+# Tamanho do vetor: 9240
+# Tamanho da memória alocada: 36960 bytes
+9240 183.020000
+# Tamanho do vetor: 9250
+# Tamanho da memória alocada: 37000 bytes
+9250 179.200000
+# Tamanho do vetor: 9260
+# Tamanho da memória alocada: 37040 bytes
+9260 163.950000
+# Tamanho do vetor: 9270
+# Tamanho da memória alocada: 37080 bytes
+9270 163.210000
+# Tamanho do vetor: 9280
+# Tamanho da memória alocada: 37120 bytes
+9280 156.010000
+# Tamanho do vetor: 9290
+# Tamanho da memória alocada: 37160 bytes
+9290 168.430000
+# Tamanho do vetor: 9300
+# Tamanho da memória alocada: 37200 bytes
+9300 170.720000
+# Tamanho do vetor: 9310
+# Tamanho da memória alocada: 37240 bytes
+9310 172.080000
+# Tamanho do vetor: 9320
+# Tamanho da memória alocada: 37280 bytes
+9320 168.380000
+# Tamanho do vetor: 9330
+# Tamanho da memória alocada: 37320 bytes
+9330 175.570000
+# Tamanho do vetor: 9340
+# Tamanho da memória alocada: 37360 bytes
+9340 174.990000
+# Tamanho do vetor: 9350
+# Tamanho da memória alocada: 37400 bytes
+9350 170.620000
+# Tamanho do vetor: 9360
+# Tamanho da memória alocada: 37440 bytes
+9360 161.380000
+# Tamanho do vetor: 9370
+# Tamanho da memória alocada: 37480 bytes
+9370 189.860000
+# Tamanho do vetor: 9380
+# Tamanho da memória alocada: 37520 bytes
+9380 156.540000
+# Tamanho do vetor: 9390
+# Tamanho da memória alocada: 37560 bytes
+9390 166.380000
+# Tamanho do vetor: 9400
+# Tamanho da memória alocada: 37600 bytes
+9400 167.200000
+# Tamanho do vetor: 9410
+# Tamanho da memória alocada: 37640 bytes
+9410 163.390000
+# Tamanho do vetor: 9420
+# Tamanho da memória alocada: 37680 bytes
+9420 166.440000
+# Tamanho do vetor: 9430
+# Tamanho da memória alocada: 37720 bytes
+9430 182.080000
+# Tamanho do vetor: 9440
+# Tamanho da memória alocada: 37760 bytes
+9440 165.510000
+# Tamanho do vetor: 9450
+# Tamanho da memória alocada: 37800 bytes
+9450 170.870000
+# Tamanho do vetor: 9460
+# Tamanho da memória alocada: 37840 bytes
+9460 171.980000
+# Tamanho do vetor: 9470
+# Tamanho da memória alocada: 37880 bytes
+9470 164.960000
+# Tamanho do vetor: 9480
+# Tamanho da memória alocada: 37920 bytes
+9480 168.220000
+# Tamanho do vetor: 9490
+# Tamanho da memória alocada: 37960 bytes
+9490 200.810000
+# Tamanho do vetor: 9500
+# Tamanho da memória alocada: 38000 bytes
+9500 196.330000
+# Tamanho do vetor: 9510
+# Tamanho da memória alocada: 38040 bytes
+9510 170.920000
+# Tamanho do vetor: 9520
+# Tamanho da memória alocada: 38080 bytes
+9520 212.850000
+# Tamanho do vetor: 9530
+# Tamanho da memória alocada: 38120 bytes
+9530 190.730000
+# Tamanho do vetor: 9540
+# Tamanho da memória alocada: 38160 bytes
+9540 162.760000
+# Tamanho do vetor: 9550
+# Tamanho da memória alocada: 38200 bytes
+9550 177.590000
+# Tamanho do vetor: 9560
+# Tamanho da memória alocada: 38240 bytes
+9560 165.300000
+# Tamanho do vetor: 9570
+# Tamanho da memória alocada: 38280 bytes
+9570 162.490000
+# Tamanho do vetor: 9580
+# Tamanho da memória alocada: 38320 bytes
+9580 190.720000
+# Tamanho do vetor: 9590
+# Tamanho da memória alocada: 38360 bytes
+9590 169.500000
+# Tamanho do vetor: 9600
+# Tamanho da memória alocada: 38400 bytes
+9600 161.360000
+# Tamanho do vetor: 9610
+# Tamanho da memória alocada: 38440 bytes
+9610 171.460000
+# Tamanho do vetor: 9620
+# Tamanho da memória alocada: 38480 bytes
+9620 175.460000
+# Tamanho do vetor: 9630
+# Tamanho da memória alocada: 38520 bytes
+9630 188.300000
+# Tamanho do vetor: 9640
+# Tamanho da memória alocada: 38560 bytes
+9640 254.130000
+# Tamanho do vetor: 9650
+# Tamanho da memória alocada: 38600 bytes
+9650 160.390000
+# Tamanho do vetor: 9660
+# Tamanho da memória alocada: 38640 bytes
+9660 161.930000
+# Tamanho do vetor: 9670
+# Tamanho da memória alocada: 38680 bytes
+9670 167.430000
+# Tamanho do vetor: 9680
+# Tamanho da memória alocada: 38720 bytes
+9680 175.710000
+# Tamanho do vetor: 9690
+# Tamanho da memória alocada: 38760 bytes
+9690 196.040000
+# Tamanho do vetor: 9700
+# Tamanho da memória alocada: 38800 bytes
+9700 166.340000
+# Tamanho do vetor: 9710
+# Tamanho da memória alocada: 38840 bytes
+9710 186.640000
+# Tamanho do vetor: 9720
+# Tamanho da memória alocada: 38880 bytes
+9720 176.390000
+# Tamanho do vetor: 9730
+# Tamanho da memória alocada: 38920 bytes
+9730 167.710000
+# Tamanho do vetor: 9740
+# Tamanho da memória alocada: 38960 bytes
+9740 169.400000
+# Tamanho do vetor: 9750
+# Tamanho da memória alocada: 39000 bytes
+9750 201.440000
+# Tamanho do vetor: 9760
+# Tamanho da memória alocada: 39040 bytes
+9760 238.000000
+# Tamanho do vetor: 9770
+# Tamanho da memória alocada: 39080 bytes
+9770 181.500000
+# Tamanho do vetor: 9780
+# Tamanho da memória alocada: 39120 bytes
+9780 188.810000
+# Tamanho do vetor: 9790
+# Tamanho da memória alocada: 39160 bytes
+9790 170.440000
+# Tamanho do vetor: 9800
+# Tamanho da memória alocada: 39200 bytes
+9800 178.350000
+# Tamanho do vetor: 9810
+# Tamanho da memória alocada: 39240 bytes
+9810 168.830000
+# Tamanho do vetor: 9820
+# Tamanho da memória alocada: 39280 bytes
+9820 165.520000
+# Tamanho do vetor: 9830
+# Tamanho da memória alocada: 39320 bytes
+9830 167.410000
+# Tamanho do vetor: 9840
+# Tamanho da memória alocada: 39360 bytes
+9840 167.570000
+# Tamanho do vetor: 9850
+# Tamanho da memória alocada: 39400 bytes
+9850 171.940000
+# Tamanho do vetor: 9860
+# Tamanho da memória alocada: 39440 bytes
+9860 175.970000
+# Tamanho do vetor: 9870
+# Tamanho da memória alocada: 39480 bytes
+9870 172.760000
+# Tamanho do vetor: 9880
+# Tamanho da memória alocada: 39520 bytes
+9880 166.800000
+# Tamanho do vetor: 9890
+# Tamanho da memória alocada: 39560 bytes
+9890 170.940000
+# Tamanho do vetor: 9900
+# Tamanho da memória alocada: 39600 bytes
+9900 175.560000
+# Tamanho do vetor: 9910
+# Tamanho da memória alocada: 39640 bytes
+9910 253.570000
+# Tamanho do vetor: 9920
+# Tamanho da memória alocada: 39680 bytes
+9920 186.570000
+# Tamanho do vetor: 9930
+# Tamanho da memória alocada: 39720 bytes
+9930 165.590000
+# Tamanho do vetor: 9940
+# Tamanho da memória alocada: 39760 bytes
+9940 173.310000
+# Tamanho do vetor: 9950
+# Tamanho da memória alocada: 39800 bytes
+9950 168.390000
+# Tamanho do vetor: 9960
+# Tamanho da memória alocada: 39840 bytes
+9960 167.620000
+# Tamanho do vetor: 9970
+# Tamanho da memória alocada: 39880 bytes
+9970 195.810000
+# Tamanho do vetor: 9980
+# Tamanho da memória alocada: 39920 bytes
+9980 197.460000
+# Tamanho do vetor: 9990
+# Tamanho da memória alocada: 39960 bytes
+9990 177.260000
+# Tamanho do vetor: 10000
+# Tamanho da memória alocada: 40000 bytes
+10000 175.800000
